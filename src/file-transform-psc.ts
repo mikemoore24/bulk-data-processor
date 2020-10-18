@@ -1,13 +1,14 @@
 import * as fs from "fs";
 import * as JSONStream from "JSONStream";
 import {removeEscapeCharactersForValue} from "./util";
+import {companyNumbersArr} from "./file-transform-company";
 
 // To be config'd
 const PATH_TO_DATA_ONE = "../../BulkData/pscInput1.json";
 const PATH_TO_DATA_TWO = "../../BulkData/pscInput2.json";
 const OUTPUT_PATH_ONE = "../../BulkData/PSCOutput1.json";
 const OUTPUT_PATH_TWO = "../../BulkData/PSCOutput2.json";
-const OUTPUT_PATH_CSV = "../../BulkData/PSCOutputCSV.csv";
+const OUTPUT_PATH_CSV = "../../BulkData/PSCOutputCSVMaxRecords1500000.csv";
 let outputPSCArray = [];
 
 function transformPSCData() {
@@ -63,8 +64,10 @@ function convertJSONToCSV() {
     let parser = JSONStream.parse(firstJSONReadStream);
 
     parser.on("data", (obj) => {
-        const csvObjectString = getCSVString(obj);
-        writeStream.write(csvObjectString);
+        if (companyNumbersArr.indexOf(obj.comp_no) !== -1 && obj.comp_no !== "unknown") {
+            const csvObjectString = getCSVString(obj);
+            writeStream.write(csvObjectString);
+        }
     });
 
     firstJSONReadStream.on("end", () => {
@@ -72,8 +75,10 @@ function convertJSONToCSV() {
         parser = JSONStream.parse(secondJSONReadStream);
         console.log("Finished converting FIRST JSON records to CSV")
         parser.on("data", (obj) => {
-            const csvObjectString = getCSVString(obj);
-            writeStream.write(csvObjectString);
+            if (companyNumbersArr.indexOf(obj.comp_no) != -1 && obj.comp_no != "unknown") {
+                const csvObjectString = getCSVString(obj);
+                writeStream.write(csvObjectString);
+            }
         });
 
         secondJSONReadStream.on("end", () => {
