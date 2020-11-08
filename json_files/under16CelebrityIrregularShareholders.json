@@ -1,0 +1,5888 @@
+﻿[
+  {
+    "c": {
+"identity": 2241995,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "LEGAL MEDICINE LTD",
+"incorporationData": "16/05/2016",
+"county": "WILTSHIRE",
+"companyNumber": "10181422",
+"accountsLastData": "31/05/2018",
+"town": "SWINDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "19 DIANMER CLOSE HOOK",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 9,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/03/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1099623,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hook",
+"locality": "Swindon",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Ms Yasmin Aslam6/2019",
+"nationality": "British",
+"companyNumber": "10181422",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "19 Dianmer Close",
+"name": "Ms Yasmin Aslam",
+"postCode": "SN4 8EB",
+"id": 1099623,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-28"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2046891,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "JS COMPLETE SOLUTIONS LIMITED",
+"incorporationData": "21/07/2011",
+"county": "blank",
+"companyNumber": "07713327",
+"accountsLastData": "31/07/2019",
+"town": "FRODSHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "31 ARDERN LEA",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "21/07/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 91104,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Ardern Lea",
+"locality": "Frodsham",
+"dateOfBirth": "7/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Jason Shingler7/2016",
+"companyNumber": "07713327",
+"nationality": "British",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Mr Jason Shingler",
+"postCode": "WA6 9EQ",
+"id": 91104,
+"dobMonth": 7,
+"dobYear": 2016,
+"notifiedDate": "2016-07-21"
+        }
+      },
+      {
+        "identity": 91104,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Ardern Lea",
+"locality": "Frodsham",
+"dateOfBirth": "7/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Jason Shingler7/2016",
+"companyNumber": "07713327",
+"nationality": "British",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Mr Jason Shingler",
+"postCode": "WA6 9EQ",
+"id": 91104,
+"dobMonth": 7,
+"dobYear": 2016,
+"notifiedDate": "2016-07-21"
+        }
+      },
+      {
+        "identity": 91104,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Ardern Lea",
+"locality": "Frodsham",
+"dateOfBirth": "7/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Jason Shingler7/2016",
+"companyNumber": "07713327",
+"nationality": "British",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Mr Jason Shingler",
+"postCode": "WA6 9EQ",
+"id": 91104,
+"dobMonth": 7,
+"dobYear": 2016,
+"notifiedDate": "2016-07-21"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1417142,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "FRANCISCO'S EUROPE LIMITED",
+"incorporationData": "17/07/2014",
+"county": "blank",
+"companyNumber": "09135482",
+"accountsLastData": "31/03/2019",
+"town": "WOKING",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "FLAT 12 WOODCOTE HOUSE 188 BROOKWOOD FARM DRIVE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "17/07/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 746519,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Woking",
+"addressLineOne": "188 Brookwood Farm Drive",
+"dateOfBirth": "4/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Edson Martins Francisco4/2016",
+"companyNumber": "09135482",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Flat 12 Woodcote House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Edson Martins Francisco",
+"postCode": "GU21 2FZ",
+"id": 746519,
+"dobMonth": 4,
+"dobYear": 2016,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2202026,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "LAMPIERS FINANCIAL PLANNING LIMITED",
+"incorporationData": "28/01/1987",
+"county": "blank",
+"companyNumber": "02094288",
+"accountsLastData": "30/06/2019",
+"town": "BRISTOL",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "4 HILLSIDE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 7,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "25/09/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      },
+      {
+        "identity": 777960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Hillside",
+"locality": "Bristol",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Michael John Gough3/2017",
+"companyNumber": "02094288",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "4",
+"name": "Mr Michael John Gough",
+"postCode": "BS6 6JP",
+"id": 777960,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-03-01"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2006644,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JISTINA FASHIONS LTD",
+"incorporationData": "24/09/2013",
+"county": "BERKSHIRE",
+"companyNumber": "08703139",
+"accountsLastData": "30/09/2018",
+"town": "SLOUGH",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "31 MILDENHALL ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "11/10/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      },
+      {
+        "identity": 1083634,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Slough",
+"addressLineOne": "Mildenhall Road",
+"dateOfBirth": "6/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Alima Muchegwa6/2019",
+"companyNumber": "08703139",
+"nationality": "Zimbabwean",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "31",
+"name": "Alima Muchegwa",
+"postCode": "SL1 3JH",
+"id": 1083634,
+"dobYear": 2019,
+"dobMonth": 6,
+"notifiedDate": "2019-06-03"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2352199,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LULWORTHCO LIMITED",
+"incorporationData": "12/08/2009",
+"county": "GLOUCESTERSHIRE",
+"companyNumber": "06988892",
+"accountsLastData": "31/07/2019",
+"town": "CHELTENHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "KINGSLEY HOUSE CHURCH LANE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "09/09/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 151079,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2008",
+"countryOfResidence": "England",
+"idNameDOB": "Miss Imogen Shaw5/2008",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Miss Imogen Shaw",
+"postCode": "OX18 4LS",
+"id": 151079,
+"dobYear": 2008,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 151080,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2006",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Thomas Shaw5/2006",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Thomas Shaw",
+"postCode": "OX18 4LS",
+"id": 151080,
+"dobMonth": 5,
+"dobYear": 2006,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 151080,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2006",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Thomas Shaw5/2006",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Thomas Shaw",
+"postCode": "OX18 4LS",
+"id": 151080,
+"dobMonth": 5,
+"dobYear": 2006,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 151080,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2006",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Thomas Shaw5/2006",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Thomas Shaw",
+"postCode": "OX18 4LS",
+"id": 151080,
+"dobMonth": 5,
+"dobYear": 2006,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 151080,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2006",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Thomas Shaw5/2006",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Thomas Shaw",
+"postCode": "OX18 4LS",
+"id": 151080,
+"dobMonth": 5,
+"dobYear": 2006,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 151080,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Sheep Street",
+"locality": "Burford",
+"dateOfBirth": "5/2006",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Thomas Shaw5/2006",
+"companyNumber": "06988892",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "Roche House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Thomas Shaw",
+"postCode": "OX18 4LS",
+"id": 151080,
+"dobMonth": 5,
+"dobYear": 2006,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1756414,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HOLCOMBE MANAGEMENT SERVICES LIMITED",
+"incorporationData": "16/11/2009",
+"county": "LANCASHIRE",
+"companyNumber": "07077307",
+"accountsLastData": "30/11/2018",
+"town": "BURY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2 WOODHEAD CLOSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "16/11/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 253012,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Woodhead Close",
+"locality": "Bury",
+"dateOfBirth": "11/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Harold Catherall11/2016",
+"nationality": "British",
+"companyNumber": "07077307",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "2",
+"name": "Mr Harold Catherall",
+"postCode": "BL0 9YX",
+"id": 253012,
+"dobYear": 2016,
+"dobMonth": 11,
+"notifiedDate": "2016-11-16"
+        }
+      },
+      {
+        "identity": 253012,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Woodhead Close",
+"locality": "Bury",
+"dateOfBirth": "11/2016",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Harold Catherall11/2016",
+"nationality": "British",
+"companyNumber": "07077307",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "2",
+"name": "Mr Harold Catherall",
+"postCode": "BL0 9YX",
+"id": 253012,
+"dobYear": 2016,
+"dobMonth": 11,
+"notifiedDate": "2016-11-16"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1377253,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "SCOTLAND",
+"dissolutionDate": "blank",
+"companyName": "FLEXIBLE HEALTHCARE ONE SOLUTIONS LTD",
+"incorporationData": "30/10/2015",
+"county": "blank",
+"companyNumber": "SC519111",
+"accountsLastData": "31/10/2018",
+"town": "GLASGOW",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "20 OAKRIDGE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "FLEXIBLE HEATHCARE ONE SOLUTIONS LTD",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "29/10/2019",
+"prevNameDate1": "10/02/2016"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      },
+      {
+        "identity": 269233,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Scotland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oakridge Road",
+"locality": "Glasgow",
+"dateOfBirth": "10/2016",
+"countryOfResidence": "Scotland",
+"idNameDOB": "Mr Ali Nawaz10/2016",
+"companyNumber": "SC519111",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "20",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Ali Nawaz",
+"postCode": "G69 7TH",
+"id": 269233,
+"dobMonth": 10,
+"dobYear": 2016,
+"notifiedDate": "2016-10-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1377784,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "15/01/1991",
+"companyName": "FLEXSIDE LIMITED",
+"county": "blank",
+"companyNumber": "02573747",
+"accountsLastData": "30/04/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "69 RADIPOLE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 6,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "05/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 352729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Street",
+"locality": "Bath",
+"dateOfBirth": "3/2016",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Angela Wendy Hawksley3/2016",
+"nationality": "British",
+"companyNumber": "02573747",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "7",
+"name": "Ms Angela Wendy Hawksley",
+"postCode": "BA1 2TB",
+"id": 352729,
+"dobYear": 2016,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2088636,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "KART COMPONENTS (MANUFACTURING) LIMITED",
+"incorporationData": "14/04/1998",
+"county": "BUCKINGHAMSHIRE",
+"companyNumber": "03545248",
+"accountsLastData": "30/09/2018",
+"town": "CHESHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "BRANDON HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "14/04/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      },
+      {
+        "identity": 671711,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Campion Road",
+"locality": "High Wycombe",
+"dateOfBirth": "3/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Daniel Michael Ing3/2017",
+"companyNumber": "03545248",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "18",
+"name": "Mr Daniel Michael Ing",
+"postCode": "HP15 6BU",
+"id": 671711,
+"dobMonth": 3,
+"dobYear": 2017,
+"notifiedDate": "2017-04-14"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1380794,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "FLOORSCREED LIMITED",
+"incorporationData": "07/05/2002",
+"county": "blank",
+"companyNumber": "04432727",
+"accountsLastData": "31/08/2018",
+"town": "LUTON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "25 PARK STREET WEST",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "12/07/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      },
+      {
+        "identity": 1127850,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Luton",
+"addressLineOne": "Park Street West",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Thomas O'Reilly4/2019",
+"companyNumber": "04432727",
+"nationality": "British",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "25",
+"name": "Mr John Thomas O'Reilly",
+"postCode": "LU1 3BE",
+"id": 1127850,
+"dobMonth": 4,
+"dobYear": 2019,
+"notifiedDate": "2019-06-10"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1913457,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "IRYS COSMETICS LTD",
+"incorporationData": "28/10/2015",
+"county": "blank",
+"companyNumber": "09845797",
+"accountsLastData": "31/10/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "158 UXBRIDGE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 7,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "03/10/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1163284,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Uxbridge Road",
+"locality": "London",
+"dateOfBirth": "3/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Marek Vaca3/2019",
+"companyNumber": "09845797",
+"nationality": "Polish",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"premises": "158",
+"name": "Mr Marek Vaca",
+"postCode": "W13 8SB",
+"id": 1163284,
+"dobYear": 2019,
+"dobMonth": 3,
+"notifiedDate": "2019-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2230275,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LE WOURI ENTERTAINMENT LTD",
+"incorporationData": "18/08/2014",
+"county": "blank",
+"companyNumber": "09179179",
+"accountsLastData": "31/08/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "133 WARWICK GROVE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "23/08/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 772598,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Warwick Grove",
+"locality": "London",
+"dateOfBirth": "9/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Stephane Dezang9/2017",
+"nationality": "French",
+"companyNumber": "09179179",
+"lowerShareTotal": 75,
+"premises": "133",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Stephane Dezang",
+"postCode": "E5 9LW",
+"id": 772598,
+"dobYear": 2017,
+"dobMonth": 9,
+"notifiedDate": "2017-09-15"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1486442,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "GBS INTERNATIONAL LTD",
+"incorporationData": "03/10/2017",
+"county": "blank",
+"companyNumber": "10993162",
+"accountsLastData": "31/10/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "401 LORDSHIP LANE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "02/10/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 946631,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Lordship Lane",
+"locality": "London",
+"dateOfBirth": "10/2017",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Faizan Ahmed10/2017",
+"companyNumber": "10993162",
+"nationality": "Pakistani",
+"lowerShareTotal": 75,
+"premises": "401",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Faizan Ahmed",
+"postCode": "N17 6AE",
+"id": 946631,
+"dobYear": 2017,
+"dobMonth": 10,
+"notifiedDate": "2017-10-03"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1531092,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "GLEVALS CONSULTING LIMITED",
+"incorporationData": "06/04/2017",
+"county": "blank",
+"companyNumber": "10713876",
+"accountsLastData": "30/04/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "27 OLD GLOUCESTER STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 5,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "05/04/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 731359,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Alexandra Street",
+"dateOfBirth": "5/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Philip Legg5/2017",
+"companyNumber": "10713876",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "6",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,ownership-of-shares-25-to-50-percent-as-firm,voting-rights-25-to-50-percent,voting-rights-25-to-50-percent-as-firm,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control,significant-influence-or-control-as-firm",
+"name": "Philip Legg",
+"postCode": "SE14 6HU",
+"id": 731359,
+"dobMonth": 5,
+"dobYear": 2017,
+"notifiedDate": "2017-07-14"
+        }
+      },
+      {
+        "identity": 731359,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-04-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Alexandra Street",
+"dateOfBirth": "5/2017",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Philip Legg5/2017",
+"companyNumber": "10713876",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "6",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,ownership-of-shares-25-to-50-percent-as-firm,voting-rights-25-to-50-percent,voting-rights-25-to-50-percent-as-firm,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control,significant-influence-or-control-as-firm",
+"name": "Philip Legg",
+"postCode": "SE14 6HU",
+"id": 731359,
+"dobMonth": 5,
+"dobYear": 2017,
+"notifiedDate": "2017-07-14"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1659560,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "08/03/2011",
+"companyName": "HANIMELI TEXILES (UK) LIMITED",
+"county": "blank",
+"companyNumber": "07555226",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "LANGLEY HOUSE PARK ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "08/03/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 710434,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-12-12",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Road",
+"locality": "London",
+"dateOfBirth": "1/2017",
+"countryOfResidence": "Lithuania",
+"idNameDOB": "Mr Andrejus Sgibnevas1/2017",
+"nationality": "Lithuanian",
+"companyNumber": "07555226",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "Langley House",
+"name": "Mr Andrejus Sgibnevas",
+"postCode": "N2 8EY",
+"id": 710434,
+"dobMonth": 1,
+"dobYear": 2017,
+"notifiedDate": "2017-02-24"
+        }
+      },
+      {
+        "identity": 710434,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-12-12",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Park Road",
+"locality": "London",
+"dateOfBirth": "1/2017",
+"countryOfResidence": "Lithuania",
+"idNameDOB": "Mr Andrejus Sgibnevas1/2017",
+"nationality": "Lithuanian",
+"companyNumber": "07555226",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "Langley House",
+"name": "Mr Andrejus Sgibnevas",
+"postCode": "N2 8EY",
+"id": 710434,
+"dobMonth": 1,
+"dobYear": 2017,
+"notifiedDate": "2017-02-24"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2327037,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LONGHUI INDUSTRIAL GROUP CO. LTD",
+"incorporationData": "09/01/2018",
+"county": "blank",
+"companyNumber": "11141141",
+"accountsLastData": "31/01/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "UNIT G25 WATERFRONT STUDIOS",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 8,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "30/01/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 827122,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-03-22",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Purley London",
+"addressLineOne": "118 High Street",
+"dateOfBirth": "1/2018",
+"countryOfResidence": "China",
+"idNameDOB": "Zhenning Fu1/2018",
+"companyNumber": "11141141",
+"nationality": "Chinese",
+"lowerShareTotal": 0,
+"premises": "Rm101 Maple House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Zhenning Fu",
+"postCode": "blank",
+"id": 827122,
+"dobYear": 2018,
+"dobMonth": 1,
+"notifiedDate": "2018-01-30"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2010680,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "JKL BOOK-KEEPING LIMITED",
+"incorporationData": "16/08/2018",
+"county": "blank",
+"companyNumber": "11521687",
+"accountsLastData": "blank",
+"town": "PONTYPOOL",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "31 AVALON COURT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "19/03/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1101999,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Avalon Court",
+"locality": "Pontypool",
+"dateOfBirth": "1/2019",
+"countryOfResidence": "Wales",
+"idNameDOB": "Miss Joanne Burchell1/2019",
+"companyNumber": "11521687",
+"nationality": "British",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"premises": "31",
+"name": "Miss Joanne Burchell",
+"postCode": "NP4 6AH",
+"id": 1101999,
+"dobMonth": 1,
+"dobYear": 2019,
+"notifiedDate": "2019-07-03"
+        }
+      },
+      {
+        "identity": 1101999,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Avalon Court",
+"locality": "Pontypool",
+"dateOfBirth": "1/2019",
+"countryOfResidence": "Wales",
+"idNameDOB": "Miss Joanne Burchell1/2019",
+"companyNumber": "11521687",
+"nationality": "British",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"premises": "31",
+"name": "Miss Joanne Burchell",
+"postCode": "NP4 6AH",
+"id": 1101999,
+"dobMonth": 1,
+"dobYear": 2019,
+"notifiedDate": "2019-07-03"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2007022,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "JJ BARRY CONGLOMARATE LIMITED",
+"incorporationData": "23/11/2016",
+"county": "blank",
+"companyNumber": "10492901",
+"accountsLastData": "30/11/2018",
+"town": "RAINHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "19 UPMINSTER ROAD SOUTH",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "22/11/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1254166,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Rainham",
+"addressLineOne": "Upminster Road South",
+"dateOfBirth": "4/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Ewemade Idiagbonya Heimdal4/2019",
+"companyNumber": "10492901",
+"nationality": "Swedish",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "19",
+"name": "Mrs Ewemade Idiagbonya Heimdal",
+"postCode": "RM13 9YS",
+"id": 1254166,
+"dobYear": 2019,
+"dobMonth": 4,
+"notifiedDate": "2020-02-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1739788,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "HILDAGAN HEALTH LIMITED",
+"incorporationData": "10/05/2019",
+"county": "blank",
+"companyNumber": "11989927",
+"accountsLastData": "blank",
+"town": "NEWCASTLE UPON TYNE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "39 ROTHWELL ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1085098,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "11/2008",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Miss Agnes Joanie Mccracken11/2008",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Miss Agnes Joanie Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085098,
+"dobMonth": 11,
+"dobYear": 2008,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085099,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "10/2012",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Hugh Eric Crozier Mccracken10/2012",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Mr Hugh Eric Crozier Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085099,
+"dobMonth": 10,
+"dobYear": 2012,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085099,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "10/2012",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Hugh Eric Crozier Mccracken10/2012",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Mr Hugh Eric Crozier Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085099,
+"dobMonth": 10,
+"dobYear": 2012,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085099,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "10/2012",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Hugh Eric Crozier Mccracken10/2012",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Mr Hugh Eric Crozier Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085099,
+"dobMonth": 10,
+"dobYear": 2012,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085098,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "11/2008",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Miss Agnes Joanie Mccracken11/2008",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Miss Agnes Joanie Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085098,
+"dobMonth": 11,
+"dobYear": 2008,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085098,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "11/2008",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Miss Agnes Joanie Mccracken11/2008",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Miss Agnes Joanie Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085098,
+"dobMonth": 11,
+"dobYear": 2008,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085099,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "10/2012",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Hugh Eric Crozier Mccracken10/2012",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Mr Hugh Eric Crozier Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085099,
+"dobMonth": 10,
+"dobYear": 2012,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085098,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "11/2008",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Miss Agnes Joanie Mccracken11/2008",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Miss Agnes Joanie Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085098,
+"dobMonth": 11,
+"dobYear": 2008,
+"notifiedDate": "2019-06-04"
+        }
+      },
+      {
+        "identity": 1085099,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Newcastle Upon Tyne",
+"addressLineOne": "Rothwell Road",
+"dateOfBirth": "10/2012",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Hugh Eric Crozier Mccracken10/2012",
+"nationality": "British",
+"companyNumber": "11989927",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "39",
+"name": "Mr Hugh Eric Crozier Mccracken",
+"postCode": "NE3 1TY",
+"id": 1085099,
+"dobMonth": 10,
+"dobYear": 2012,
+"notifiedDate": "2019-06-04"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1809879,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"incorporationData": "31/07/2019",
+"companyName": "HYIKL LIMITED",
+"county": "WEST MIDLANDS",
+"companyNumber": "12130621",
+"accountsLastData": "blank",
+"town": "TIPTON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "UNIT D2 BROOK STREET BUSINESS CENTRE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1130146,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Harlow Close",
+"locality": "St Helens",
+"dateOfBirth": "8/2019",
+"countryOfResidence": "Jamaica",
+"idNameDOB": "Miss Sheryl Wildman8/2019",
+"companyNumber": "12130621",
+"nationality": "Jamaican",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "79",
+"name": "Miss Sheryl Wildman",
+"postCode": "WA9 5EX",
+"id": 1130146,
+"dobMonth": 8,
+"dobYear": 2019,
+"notifiedDate": "2019-08-01"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1643102,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "HAIGH INTERNATIONAL JUSTICE LIMITED",
+"incorporationData": "14/08/2019",
+"county": "blank",
+"companyNumber": "12154998",
+"accountsLastData": "blank",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "71-75 SHELTON STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "THE HAIGH FIRM LTD",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate2": "blank",
+"prevNameDate1": "19/11/2019"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1174481,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Well Lane",
+"locality": "Penzance",
+"dateOfBirth": "11/2019",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ronald Haigh11/2019",
+"companyNumber": "12154998",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "The Cove",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,significant-influence-or-control",
+"name": "Ronald Haigh",
+"postCode": "TR19 6XQ",
+"id": 1174481,
+"dobYear": 2019,
+"dobMonth": 11,
+"notifiedDate": "2019-11-04"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1612101,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"incorporationData": "01/11/2019",
+"companyName": "GROUNDWORKS SERVICES (SPV 1) LIMITED",
+"county": "blank",
+"companyNumber": "12294402",
+"accountsLastData": "blank",
+"town": "ABINGDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "115P OLYMPIC AVENUE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "TW ORGANICS GROUP LIMITED",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "02/12/2019"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1190159,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Olympic Avenue",
+"locality": "Abingdon",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Groundworks Services Limited10/2019",
+"companyNumber": "12294402",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "115p Olympic Avenue",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Groundworks Services Limited",
+"postCode": "OX14 4SA",
+"id": 1190159,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-11-28"
+        }
+      },
+      {
+        "identity": 1190159,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Olympic Avenue",
+"locality": "Abingdon",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Groundworks Services Limited10/2019",
+"companyNumber": "12294402",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "115p Olympic Avenue",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Groundworks Services Limited",
+"postCode": "OX14 4SA",
+"id": 1190159,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-11-28"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1391244,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"incorporationData": "18/06/2019",
+"companyName": "FONEFIXER LTD",
+"county": "WEST YORKSHIRE",
+"companyNumber": "12057493",
+"accountsLastData": "blank",
+"town": "WAKEFIELD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "23 CROSS SQUARE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      },
+      {
+        "identity": 1177471,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Cross Square",
+"locality": "Wakefield",
+"dateOfBirth": "10/2019",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Poorna Chandar Reddy Yasa10/2019",
+"companyNumber": "12057493",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "23",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-trust,right-to-appoint-and-remove-directors-as-firm",
+"name": "Mr Poorna Chandar Reddy Yasa",
+"postCode": "WF1 1PQ",
+"id": 1177471,
+"dobMonth": 10,
+"dobYear": 2019,
+"notifiedDate": "2019-10-25"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1826501,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"incorporationData": "24/04/2019",
+"companyName": "ICEDCREAMWEB LTD",
+"county": "blank",
+"companyNumber": "11961481",
+"accountsLastData": "blank",
+"town": "KETTERING",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "OFFICE 3 REAR OF 24 MARKET HILL",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      },
+      {
+        "identity": 1186734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Kettering",
+"addressLineOne": "Rear Of 24 Market Hill",
+"dateOfBirth": "7/2019",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Mrs Jenny Ramos7/2019",
+"companyNumber": "11961481",
+"nationality": "Filipino",
+"lowerShareTotal": 75,
+"premises": "Office 3",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mrs Jenny Ramos",
+"postCode": "NN14 6BW",
+"id": 1186734,
+"dobYear": 2019,
+"dobMonth": 7,
+"notifiedDate": "2019-07-01"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2144089,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "KISKA EU LTD",
+"incorporationData": "03/01/2020",
+"county": "blank",
+"companyNumber": "12385783",
+"accountsLastData": "blank",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "LAWFORD HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "KISKA UK LIMITED",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "23/03/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "10/03/2020"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      },
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      },
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      },
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      },
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      },
+      {
+        "identity": 1258523,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Albert  Palace",
+"dateOfBirth": "3/2020",
+"countryOfResidence": "Netherlands",
+"idNameDOB": "Mr Mateo Vera Martinez3/2020",
+"companyNumber": "12385783",
+"nationality": "Dutch",
+"lowerShareTotal": 75,
+"premises": "Lawford House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Mateo Vera Martinez",
+"postCode": "N3 1QB",
+"id": 1258523,
+"dobYear": 2020,
+"dobMonth": 3,
+"notifiedDate": "2020-03-20"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1683490,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"incorporationData": "21/03/2017",
+"companyName": "HATTON & BERKELEY MANAGEMENT LIMITED",
+"county": "blank",
+"companyNumber": "10681339",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "43 BERKELEY SQUARE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "04/02/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      },
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      },
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      },
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      },
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      },
+      {
+        "identity": 1267502,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Berkeley Square",
+"dateOfBirth": "1/2020",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Edwin Croucher1/2020",
+"companyNumber": "10681339",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "43",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Robert Edwin Croucher",
+"postCode": "W1J 5AP",
+"id": 1267502,
+"dobYear": 2020,
+"dobMonth": 1,
+"notifiedDate": "2020-04-14"
+        }
+      }
+    ]
+  }
+]

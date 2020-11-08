@@ -1,0 +1,7091 @@
+﻿[
+  {
+    "c": {
+"identity": 1925710,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "IVA TUCKER TWO TRADING LIMITED",
+"incorporationData": "09/06/2015",
+"county": "blank",
+"companyNumber": "09629816",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 CONDUIT STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/05/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 672076,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "2/1948",
+"countryOfResidence": "United States",
+"idNameDOB": "Mrs Francine Margaret Biggin2/1948",
+"companyNumber": "09629816",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-firm,voting-rights-50-to-75-percent-as-firm,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"premises": "1",
+"name": "Mrs Francine Margaret Biggin",
+"postCode": "W1S 2XA",
+"id": 672076,
+"dobYear": 1948,
+"dobMonth": 2,
+"notifiedDate": "2017-06-09"
+        }
+      },
+      {
+        "identity": 6707,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-06-09",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "4/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Iva Rose Tucker4/1923",
+"companyNumber": "09629816",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"premises": "1",
+"name": "Mrs Iva Rose Tucker",
+"postCode": "W1S 2XA",
+"id": 6707,
+"dobMonth": 4,
+"dobYear": 1923,
+"notifiedDate": "2016-04-14"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2038491,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "JOSH UNDERWRITING LIMITED",
+"incorporationData": "22/08/2008",
+"county": "blank",
+"companyNumber": "06680075",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "5TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "04/09/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 89266,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "70 Gracechurch Street",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Lloyd Rowlands8/1923",
+"companyNumber": "06680075",
+"nationality": "British",
+"premises": "5th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Lloyd Rowlands",
+"postCode": "EC3V 0XL",
+"id": 89266,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2348269,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LUCK CONSTRUCTION LIMITED",
+"incorporationData": "27/08/2013",
+"county": "ESSEX",
+"companyNumber": "08663229",
+"accountsLastData": "30/09/2018",
+"town": "ROMFORD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "10 WESTERN ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "25/05/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 99880,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Perry Street",
+"locality": "Billericay",
+"dateOfBirth": "2/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Lawrence Henry Luck2/1923",
+"companyNumber": "08663229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "179",
+"name": "Mr Lawrence Henry Luck",
+"postCode": "CM12 0NU",
+"id": 99880,
+"dobMonth": 2,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1495102,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "13/01/1983",
+"companyName": "GENEEN INVESTMENTS (LONDON) LIMITED",
+"county": "blank",
+"companyNumber": "01690911",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2ND FLOOR GADD HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 131338,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Arcadia Avenue",
+"locality": "London",
+"dateOfBirth": "10/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Rita Hearn10/1920",
+"companyNumber": "01690911",
+"nationality": "British",
+"premises": "2nd Floor Gadd House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mrs Rita Hearn",
+"postCode": "N3 2JU",
+"id": 131338,
+"dobMonth": 10,
+"dobYear": 1920,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1495101,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "06/09/1979",
+"companyName": "GENEEN INVESTMENTS (1979) LIMITED",
+"county": "blank",
+"companyNumber": "01447065",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2ND FLOOR GADD HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 133737,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Arcadia Avenue",
+"locality": "London",
+"dateOfBirth": "10/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Rita Hearn10/1920",
+"companyNumber": "01447065",
+"nationality": "British",
+"premises": "2nd Floor Gadd House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Rita Hearn",
+"postCode": "N3 2JU",
+"id": 133737,
+"dobMonth": 10,
+"dobYear": 1920,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 133738,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Arcadia Avenue",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Geneen Investments (London) Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "01447065",
+"premises": "2nd Floor Gadd House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Geneen Investments (London) Limited",
+"postCode": "N3 2JU",
+"id": 133738,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1995555,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JER-MED LIMITED",
+"incorporationData": "09/07/1973",
+"county": "SURREY",
+"companyNumber": "01121790",
+"accountsLastData": "30/06/2019",
+"town": "CAMBERLEY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "KNOLL HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "12/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 143349,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Southdown Road",
+"locality": "Winchester",
+"dateOfBirth": "6/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Miss Marjorie Eileen Daphne Wells6/1924",
+"companyNumber": "01121790",
+"nationality": "British",
+"premises": "Bridle Way",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Miss Marjorie Eileen Daphne Wells",
+"postCode": "SO21 2BY",
+"id": 143349,
+"dobMonth": 6,
+"dobYear": 1924,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2031836,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JOJEPHIL PROPERTIES LIMITED",
+"incorporationData": "11/04/1962",
+"county": "GREATER MANCHESTER",
+"companyNumber": "00721217",
+"accountsLastData": "30/06/2018",
+"town": "WHITEFIELD",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "LEONARD CURTIS HOUSE ELMS SQUARE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "08/08/2018",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 160108,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Elms Square",
+"locality": "Whitefield",
+"dateOfBirth": "5/1943",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Wright Davies5/1943",
+"nationality": "British",
+"companyNumber": "00721217",
+"premises": "Leonard Curtis House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mr John Wright Davies",
+"postCode": "M45 7TA",
+"id": 160108,
+"dobYear": 1943,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 160110,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-07-14",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "13 Park Ave",
+"locality": "Cheshire",
+"dateOfBirth": "4/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Helen Nellie Davies4/1920",
+"nationality": "British",
+"companyNumber": "00721217",
+"premises": "blank",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Helen Nellie Davies",
+"postCode": "SK8 6EU",
+"id": 160110,
+"dobYear": 1920,
+"dobMonth": 4,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 160109,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Elms Square",
+"locality": "Whitefield",
+"dateOfBirth": "2/1945",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Philip James Davies2/1945",
+"nationality": "British",
+"companyNumber": "00721217",
+"premises": "Leonard Curtis House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Philip James Davies",
+"postCode": "M45 7TA",
+"id": 160109,
+"dobYear": 1945,
+"dobMonth": 2,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2168658,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "KREPLER LIMITED",
+"incorporationData": "25/10/2012",
+"county": "CHESHIRE",
+"companyNumber": "08269076",
+"accountsLastData": "31/10/2018",
+"town": "CONGLETON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "WINCHAM HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "25/10/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 193168,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Congleton",
+"addressLineOne": "Greenfield Farm Trading Estate",
+"dateOfBirth": "10/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Margreeta Mair Potter10/1924",
+"nationality": "British",
+"companyNumber": "08269076",
+"premises": "Wincham House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Margreeta Mair Potter",
+"postCode": "CW12 4TR",
+"id": 193168,
+"dobYear": 1924,
+"dobMonth": 10,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 193167,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Congleton",
+"addressLineOne": "Greenfield Farm Trading Estate",
+"dateOfBirth": "12/1934",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Christopher Keith Potter12/1934",
+"nationality": "British",
+"companyNumber": "08269076",
+"premises": "Wincham House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Christopher Keith Potter",
+"postCode": "CW12 4TR",
+"id": 193167,
+"dobMonth": 12,
+"dobYear": 1934,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1371597,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FLAGSHIP PROPERTIES LIMITED",
+"incorporationData": "11/08/1986",
+"county": "DORSET",
+"companyNumber": "02045229",
+"accountsLastData": "24/03/2019",
+"town": "POOLE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "TOWNGATE HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 7,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "25/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153325,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "3/1964",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Nigel Robert Smith3/1964",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Mr Nigel Robert Smith",
+"postCode": "BH13 7LP",
+"id": 1153325,
+"dobMonth": 3,
+"dobYear": 1964,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "8/1965",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Timothy James Sharpley8/1965",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Timothy James Sharpley",
+"postCode": "BH13 7LP",
+"id": 1153328,
+"dobMonth": 8,
+"dobYear": 1965,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153325,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "3/1964",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Nigel Robert Smith3/1964",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Mr Nigel Robert Smith",
+"postCode": "BH13 7LP",
+"id": 1153325,
+"dobMonth": 3,
+"dobYear": 1964,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "8/1965",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Timothy James Sharpley8/1965",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Timothy James Sharpley",
+"postCode": "BH13 7LP",
+"id": 1153328,
+"dobMonth": 8,
+"dobYear": 1965,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153325,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "3/1964",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Nigel Robert Smith3/1964",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Mr Nigel Robert Smith",
+"postCode": "BH13 7LP",
+"id": 1153325,
+"dobMonth": 3,
+"dobYear": 1964,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "8/1965",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Timothy James Sharpley8/1965",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Timothy James Sharpley",
+"postCode": "BH13 7LP",
+"id": 1153328,
+"dobMonth": 8,
+"dobYear": 1965,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153325,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "3/1964",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Nigel Robert Smith3/1964",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Mr Nigel Robert Smith",
+"postCode": "BH13 7LP",
+"id": 1153325,
+"dobMonth": 3,
+"dobYear": 1964,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "8/1965",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Timothy James Sharpley8/1965",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Timothy James Sharpley",
+"postCode": "BH13 7LP",
+"id": 1153328,
+"dobMonth": 8,
+"dobYear": 1965,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153325,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "3/1964",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Nigel Robert Smith3/1964",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Mr Nigel Robert Smith",
+"postCode": "BH13 7LP",
+"id": 1153325,
+"dobMonth": 3,
+"dobYear": 1964,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1153328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Haven Road",
+"locality": "Poole",
+"dateOfBirth": "8/1965",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Timothy James Sharpley8/1965",
+"companyNumber": "02045229",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "14a",
+"name": "Timothy James Sharpley",
+"postCode": "BH13 7LP",
+"id": 1153328,
+"dobMonth": 8,
+"dobYear": 1965,
+"notifiedDate": "2018-09-30"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1554543,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GOLDCLAD PROPERTIES LIMITED",
+"incorporationData": "31/10/1990",
+"county": "blank",
+"companyNumber": "02553843",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "HALLSWELLE HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "28/10/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 202646,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-03-01",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Green Walk",
+"locality": "London",
+"dateOfBirth": "12/1922",
+"countryOfResidence": "England",
+"idNameDOB": "Mr David Last12/1922",
+"companyNumber": "02553843",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "18",
+"name": "Mr David Last",
+"postCode": "NW4 2AJ",
+"id": 202646,
+"dobYear": 1922,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 936163,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Danescroft Gardens",
+"dateOfBirth": "2/1960",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Henry Victor Last2/1960",
+"companyNumber": "02553843",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "8",
+"name": "Mr Henry Victor Last",
+"postCode": "NW4 2ND",
+"id": 936163,
+"dobMonth": 2,
+"dobYear": 1960,
+"notifiedDate": "2018-03-01"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1468438,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GALE PARK DEVELOPMENTS LIMITED",
+"incorporationData": "15/10/2004",
+"county": "blank",
+"companyNumber": "05261190",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/10/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 211477,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-11",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "5/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "The Executors Of The Late Mr Derrick Johnson5/1924",
+"companyNumber": "05261190",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "The Executors Of The Late Mr Derrick Johnson",
+"postCode": "NW1 3BG",
+"id": 211477,
+"dobYear": 1924,
+"dobMonth": 5,
+"notifiedDate": "2016-10-15"
+        }
+      },
+      {
+        "identity": 965530,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1946",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Ms Elizabeth Mary Johnson12/1946",
+"nationality": "British",
+"companyNumber": "05261190",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Ms Elizabeth Mary Johnson",
+"postCode": "NW1 3BG",
+"id": 965530,
+"dobYear": 1946,
+"dobMonth": 12,
+"notifiedDate": "2018-10-15"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2065639,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "K & K ENTERPRISES LTD",
+"incorporationData": "08/10/1976",
+"county": "HERTS",
+"companyNumber": "01280779",
+"accountsLastData": "31/03/2019",
+"town": "WATFORD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "EGALE 1",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "K. & K. AUDIO TECHNIQUES LIMITED",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/10/2019",
+"prevNameDate1": "14/07/2000"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 795343,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "Dunton",
+"dateOfBirth": "11/1946",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Julia Margaret King11/1946",
+"companyNumber": "01280779",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "5 Lidcote",
+"name": "Mrs Julia Margaret King",
+"postCode": "MK18 3RY",
+"id": 795343,
+"dobYear": 1946,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 238920,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "Dunton",
+"dateOfBirth": "7/1946",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert Alexander Francis King7/1946",
+"nationality": "British",
+"companyNumber": "01280779",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,significant-influence-or-control",
+"premises": "5 Lidcote",
+"name": "Mr Robert Alexander Francis King",
+"postCode": "MK18 3RY",
+"id": 238920,
+"dobYear": 1946,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 238921,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Watford",
+"addressLineOne": "80 St Albans Road",
+"dateOfBirth": "8/1922",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Angelina Adele King8/1922",
+"companyNumber": "01280779",
+"nationality": "British",
+"premises": "Egale 1",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Angelina Adele King",
+"postCode": "WD17 1DL",
+"id": 238921,
+"dobYear": 1922,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1681352,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HASKER STREET PROPERTIES LIMITED",
+"incorporationData": "27/04/1964",
+"county": "blank",
+"companyNumber": "00802620",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "FLAT 5",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "01/11/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 812737,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "11/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mohammed Said Al-Khaffaf11/1923",
+"companyNumber": "00802620",
+"nationality": "British",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mohammed Said Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 812737,
+"dobYear": 1923,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 254888,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "1/1957",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Kazhaw Mohammed Al-Khaffaf1/1957",
+"companyNumber": "00802620",
+"nationality": "Australian",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Kazhaw Mohammed Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 254888,
+"dobMonth": 1,
+"dobYear": 1957,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 254887,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-11-01",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "9/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mohammed Said Al-Khaffaf9/1923",
+"companyNumber": "00802620",
+"nationality": "Iraqi",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mohammed Said Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 254887,
+"dobYear": 1923,
+"dobMonth": 9,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 812737,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "11/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mohammed Said Al-Khaffaf11/1923",
+"companyNumber": "00802620",
+"nationality": "British",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mohammed Said Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 812737,
+"dobYear": 1923,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 254888,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "1/1957",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Kazhaw Mohammed Al-Khaffaf1/1957",
+"companyNumber": "00802620",
+"nationality": "Australian",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Kazhaw Mohammed Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 254888,
+"dobMonth": 1,
+"dobYear": 1957,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 254887,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-11-01",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "17 The Vale",
+"locality": "Chelsea",
+"dateOfBirth": "9/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mohammed Said Al-Khaffaf9/1923",
+"companyNumber": "00802620",
+"nationality": "Iraqi",
+"premises": "Flat 5",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mohammed Said Al-Khaffaf",
+"postCode": "SW3 6AG",
+"id": 254887,
+"dobYear": 1923,
+"dobMonth": 9,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1846734,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "IMMOBILIARE CARDI MARMI LIMITED",
+"incorporationData": "07/12/2016",
+"county": "ESSEX",
+"companyNumber": "10515025",
+"accountsLastData": "31/12/2018",
+"town": "WITHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "DICKENS HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "06/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 273312,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-01",
+"country": "Italy",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Acquasanta",
+"locality": "Terme (Ap)",
+"dateOfBirth": "11/1924",
+"countryOfResidence": "Italy",
+"idNameDOB": "Mr Antonio Cardi11/1924",
+"companyNumber": "10515025",
+"nationality": "Italian",
+"premises": "91 Frazione Santa Maria",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Antonio Cardi",
+"postCode": "blank",
+"id": 273312,
+"dobMonth": 11,
+"dobYear": 1924,
+"notifiedDate": "2016-12-07"
+        }
+      },
+      {
+        "identity": 802153,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "14 Hanover Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Sextant Consolidated Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "10515025",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "3rd Floor",
+"name": "Sextant Consolidated Limited",
+"postCode": "W1S 1YH",
+"id": 802153,
+"notifiedDate": "2017-04-01"
+        }
+      },
+      {
+        "identity": 273311,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-04-01",
+"country": "Italy",
+"kind": "individual-person-with-significant-control",
+"locality": "Terme Ap",
+"addressLineOne": "63095 Acquasanta",
+"dateOfBirth": "3/1959",
+"countryOfResidence": "Italy",
+"idNameDOB": "Mr Luigi Cardi3/1959",
+"companyNumber": "10515025",
+"nationality": "Italian",
+"premises": "91 Frazione Santa Maria",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Luigi Cardi",
+"postCode": "63095",
+"id": 273311,
+"dobYear": 1959,
+"dobMonth": 3,
+"notifiedDate": "2016-12-07"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1379145,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FLIPSIDE ESTATES LIMITED",
+"incorporationData": "23/10/2002",
+"county": "blank",
+"companyNumber": "04570775",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "NEW BURLINGTON HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "23/10/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 296430,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "1 Woodtree Close",
+"dateOfBirth": "7/1950",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Philip David Lawson7/1950",
+"companyNumber": "04570775",
+"nationality": "British",
+"premises": "'Rancho Mirage'",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent-as-trust,voting-rights-25-to-50-percent-as-trust",
+"name": "Mr John Philip David Lawson",
+"postCode": "NW4 1HQ",
+"id": 296430,
+"dobMonth": 7,
+"dobYear": 1950,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 296429,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "75 Prince Albert Road",
+"dateOfBirth": "12/1919",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Alfred Lawson12/1919",
+"nationality": "British",
+"companyNumber": "04570775",
+"premises": "Flat 6",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent-as-trust,voting-rights-25-to-50-percent-as-trust",
+"name": "Alfred Lawson",
+"postCode": "NW8 7SA",
+"id": 296429,
+"dobMonth": 12,
+"dobYear": 1919,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1755697,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HOHO ENTERTAINMENT LTD",
+"incorporationData": "02/12/2010",
+"county": "blank",
+"companyNumber": "07458582",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "27 MORTIMER STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "10/11/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 339729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "West Midlands",
+"addressLineOne": "Ladywood Road Four Oaks",
+"dateOfBirth": "1/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Herbert Douglas Ellis1/1924",
+"companyNumber": "07458582",
+"nationality": "British",
+"premises": "2",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-25-to-50-percent",
+"name": "Herbert Douglas Ellis",
+"postCode": "B74 2SN",
+"id": 339729,
+"dobYear": 1924,
+"dobMonth": 1,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2136418,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "KINGS LEISURE LIMITED",
+"incorporationData": "08/01/1958",
+"county": "blank",
+"companyNumber": "00596765",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2ND FLOOR GADD HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "KINGS PARK HOMES LIMITED",
+"prevNameDate4": "blank",
+"prevName2": "KING'S CHALETS LIMITED",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "31/12/2019",
+"prevNameDate2": "01/05/2002",
+"prevNameDate1": "11/12/2007"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 348100,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2019-12-31",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Gadd House",
+"locality": "London",
+"dateOfBirth": "8/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Harold William King8/1924",
+"companyNumber": "00596765",
+"nationality": "British",
+"premises": "2nd Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr Harold William King",
+"postCode": "N3 2JU",
+"id": 348100,
+"dobYear": 1924,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1360148,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "00596765",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1360148,
+"notifiedDate": "2020-01-09"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1526515,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "GLAUNSHAROON LIMITED",
+"incorporationData": "04/09/2009",
+"county": "blank",
+"companyNumber": "07010009",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "5TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "06/02/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1176298,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Chippenham",
+"addressLineOne": "Great Somerford",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Plumtrak Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "07010009",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "The Brow",
+"name": "Plumtrak Limited",
+"postCode": "SN15 5JB",
+"id": 1176298,
+"notifiedDate": "2019-10-28"
+        }
+      },
+      {
+        "identity": 403132,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2019-10-28",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "40 Gracechurch Street",
+"dateOfBirth": "11/1924",
+"countryOfResidence": "Australia",
+"idNameDOB": "Arthur William Pardey11/1924",
+"nationality": "Australian",
+"companyNumber": "07010009",
+"premises": "5th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Arthur William Pardey",
+"postCode": "EC3V 0BT",
+"id": 403132,
+"dobYear": 1924,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1990063,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JEAN JUNGLE LIMITED",
+"incorporationData": "04/10/1982",
+"county": "blank",
+"companyNumber": "01669150",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "PALLADIUM HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "31/12/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 421733,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Moulton",
+"locality": "Richmond",
+"dateOfBirth": "7/1948",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Martin Henry Craster7/1948",
+"nationality": "British",
+"companyNumber": "01669150",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "Plumtree House",
+"name": "Mr Martin Henry Craster",
+"postCode": "DL10 6QJ",
+"id": 421733,
+"dobMonth": 7,
+"dobYear": 1948,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 421734,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leeds",
+"addressLineOne": "blank",
+"dateOfBirth": "11/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Iris Craster11/1921",
+"nationality": "British",
+"companyNumber": "01669150",
+"premises": "24 Princess Court",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Iris Craster",
+"postCode": "LS17 8BY",
+"id": 421734,
+"dobYear": 1921,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1786374,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HOWARD'S AND COMPANY (BRENTWOOD) LIMITED",
+"incorporationData": "18/04/1957",
+"county": "ESSEX",
+"companyNumber": "00582566",
+"accountsLastData": "30/04/2019",
+"town": "LOUGHTON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "HASLERS",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "27/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 435150,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Kelvin Court",
+"locality": "Frinton-On-Sea",
+"dateOfBirth": "6/1923",
+"countryOfResidence": "England",
+"idNameDOB": "John Robert Carroll6/1923",
+"companyNumber": "00582566",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"premises": "8",
+"name": "John Robert Carroll",
+"postCode": "CO13 9DT",
+"id": 435150,
+"dobMonth": 6,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2292162,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LITTLE RHODEN FARM LIMITED",
+"incorporationData": "06/08/1979",
+"county": "KENT",
+"companyNumber": "01442132",
+"accountsLastData": "31/05/2019",
+"town": "CANTERBURY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "CAMBURGH HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "24/01/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 479453,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Tunbridge Wells",
+"addressLineOne": "Willicombe Park",
+"dateOfBirth": "11/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Mary Christina Sheavill11/1922",
+"companyNumber": "01442132",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "28",
+"name": "Mrs Mary Christina Sheavill",
+"postCode": "TN2 3US",
+"id": 479453,
+"dobMonth": 11,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 479452,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Tonbridge",
+"addressLineOne": "Bells Farm Road",
+"dateOfBirth": "6/1948",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Christine Mary Pemble6/1948",
+"companyNumber": "01442132",
+"nationality": "British",
+"premises": "Little Rhoden Farm",
+"naturesOfControl": "voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Christine Mary Pemble",
+"postCode": "TN12 5NA",
+"id": 479452,
+"dobYear": 1948,
+"dobMonth": 6,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 479451,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Tonbridge",
+"addressLineOne": "Bells Farm Road",
+"dateOfBirth": "6/1945",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Richard Cyril Pemble6/1945",
+"companyNumber": "01442132",
+"nationality": "British",
+"premises": "Little Rhoden Farm",
+"naturesOfControl": "voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Richard Cyril Pemble",
+"postCode": "TN12 5NA",
+"id": 479451,
+"dobYear": 1945,
+"dobMonth": 6,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2187883,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "L.BRICKMAN LIMITED",
+"incorporationData": "17/04/1945",
+"county": "blank",
+"companyNumber": "00394802",
+"accountsLastData": "30/04/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "64 NEW CAVENDISH STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "03/05/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 479473,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "New Cavendish Street",
+"dateOfBirth": "9/1976",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr David Miller9/1976",
+"companyNumber": "00394802",
+"nationality": "United Kingdom",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "64",
+"name": "Mr David Miller",
+"postCode": "W1G 8TB",
+"id": 479473,
+"dobYear": 1976,
+"dobMonth": 9,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 639289,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "New Cavendish Street",
+"dateOfBirth": "4/1952",
+"countryOfResidence": "England",
+"idNameDOB": "Ms Natalie Sandy Norman4/1952",
+"companyNumber": "00394802",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "64",
+"name": "Ms Natalie Sandy Norman",
+"postCode": "W1G 8TB",
+"id": 639289,
+"dobYear": 1952,
+"dobMonth": 4,
+"notifiedDate": "2017-05-19"
+        }
+      },
+      {
+        "identity": 479472,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-05-19",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "New Cavendish Street",
+"dateOfBirth": "3/1922",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Barbara Wallis3/1922",
+"companyNumber": "00394802",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent",
+"premises": "64",
+"name": "Mrs Barbara Wallis",
+"postCode": "W1G 8TB",
+"id": 479472,
+"dobYear": 1922,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2342255,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LPS PROPERTIES LIMITED",
+"incorporationData": "15/03/2013",
+"county": "blank",
+"companyNumber": "08447689",
+"accountsLastData": "31/03/2019",
+"town": "LEICESTER",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "21 HIGH VIEW CLOSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 5,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "04/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 524432,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-09-15",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leicester",
+"addressLineOne": "High View Close",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Purushottam Gokaldas Sachdev5/1921",
+"companyNumber": "08447689",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "21",
+"name": "Mr Purushottam Gokaldas Sachdev",
+"postCode": "LE4 9LJ",
+"id": 524432,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-07-01"
+        }
+      },
+      {
+        "identity": 800268,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leicester",
+"addressLineOne": "High View Close",
+"dateOfBirth": "11/1957",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Rajesh Sachdev11/1957",
+"nationality": "British",
+"companyNumber": "08447689",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "21",
+"name": "Mr Rajesh Sachdev",
+"postCode": "LE4 9LJ",
+"id": 800268,
+"dobYear": 1957,
+"dobMonth": 11,
+"notifiedDate": "2017-11-20"
+        }
+      },
+      {
+        "identity": 524431,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leicester",
+"addressLineOne": "High View Close",
+"dateOfBirth": "11/1955",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Harish Purushottam Sachdev11/1955",
+"nationality": "British",
+"companyNumber": "08447689",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "21",
+"name": "Mr Harish Purushottam Sachdev",
+"postCode": "LE4 9LJ",
+"id": 524431,
+"dobYear": 1955,
+"dobMonth": 11,
+"notifiedDate": "2016-07-01"
+        }
+      },
+      {
+        "identity": 800261,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leicester",
+"addressLineOne": "High View Close",
+"dateOfBirth": "3/1979",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Prital Sachdev3/1979",
+"companyNumber": "08447689",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "21",
+"name": "Mr Prital Sachdev",
+"postCode": "LE4 9LJ",
+"id": 800261,
+"dobYear": 1979,
+"dobMonth": 3,
+"notifiedDate": "2017-11-20"
+        }
+      },
+      {
+        "identity": 800265,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Leicester",
+"addressLineOne": "High View Close",
+"dateOfBirth": "7/1984",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Ritesh Sachdev7/1984",
+"companyNumber": "08447689",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "21",
+"name": "Mr Ritesh Sachdev",
+"postCode": "LE4 9LJ",
+"id": 800265,
+"dobYear": 1984,
+"dobMonth": 7,
+"notifiedDate": "2017-11-20"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1775434,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HORIZON INNS LIMITED",
+"incorporationData": "13/04/2000",
+"county": "blank",
+"companyNumber": "03972166",
+"accountsLastData": "09/12/2018",
+"town": "NORWICH",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "KING STREET HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "13/04/2018",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 555079,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Norwich",
+"addressLineOne": "15 Upper King Street",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Robert John Richardson8/1923",
+"companyNumber": "03972166",
+"nationality": "British",
+"premises": "King Street House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Robert John Richardson",
+"postCode": "NR3 1RB",
+"id": 555079,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1379888,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "FLOCKCOURT LIMITED",
+"incorporationData": "26/09/1972",
+"county": "blank",
+"companyNumber": "01073587",
+"accountsLastData": "31/05/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "REGINA HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "18/04/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 579529,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "124 Finchley Road",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Bernard Shire8/1923",
+"companyNumber": "01073587",
+"nationality": "British",
+"premises": "Regina House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Bernard Shire",
+"postCode": "NW3 5JS",
+"id": 579529,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2231134,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "LEADENHALL NO 116 LLP",
+"incorporationData": "18/08/2006",
+"county": "blank",
+"companyNumber": "OC321751",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "5TH FLOOR",
+"companyCategory": "Limited Liability Partnership",
+"prevNameDate5": "blank",
+"prevName1": "NOMINA NO 116 LLP",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "19/05/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "05/03/2019"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 651854,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-11-12",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "40 Gracechurch Street",
+"dateOfBirth": "10/1923",
+"countryOfResidence": "France",
+"idNameDOB": "Leon Rene Baudouin De Rudder10/1923",
+"nationality": "French",
+"companyNumber": "OC321751",
+"premises": "5th Floor",
+"naturesOfControl": "voting-rights-75-to-100-percent-limited-liability-partnership,right-to-share-surplus-assets-75-to-100-percent-limited-liability-partnership,right-to-appoint-and-remove-members-limited-liability-partnership",
+"name": "Leon Rene Baudouin De Rudder",
+"postCode": "EC3V 0BT",
+"id": 651854,
+"dobMonth": 10,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1026021,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "40 Gracechurch Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Nomina Designated Member No. 1 Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "OC321751",
+"naturesOfControl": "voting-rights-25-to-50-percent-limited-liability-partnership,right-to-share-surplus-assets-25-to-50-percent-limited-liability-partnership",
+"premises": "5th Floor",
+"name": "Nomina Designated Member No. 1 Limited",
+"postCode": "EC3V 0BT",
+"id": 1026021,
+"notifiedDate": "2018-11-12"
+        }
+      },
+      {
+        "identity": 1026026,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "40 Gracechurch Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Nomina Designated Member No. 2 Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "OC321751",
+"naturesOfControl": "voting-rights-25-to-50-percent-limited-liability-partnership,right-to-share-surplus-assets-25-to-50-percent-limited-liability-partnership",
+"premises": "5th Floor",
+"name": "Nomina Designated Member No. 2 Limited",
+"postCode": "EC3V 0BT",
+"id": 1026026,
+"notifiedDate": "2018-11-12"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1925708,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "IVA TUCKER ONE TRADING LIMITED",
+"incorporationData": "03/06/2015",
+"county": "blank",
+"companyNumber": "09622095",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 CONDUIT STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/05/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 651921,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-06-09",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "4/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Iva Rose Tucker4/1923",
+"companyNumber": "09622095",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-firm,voting-rights-50-to-75-percent-as-firm,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"premises": "1",
+"name": "Mrs Iva Rose Tucker",
+"postCode": "W1S 2XA",
+"id": 651921,
+"dobMonth": 4,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 672794,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "4/1953",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Gayna Ernestine Carlton4/1953",
+"companyNumber": "09622095",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-firm,voting-rights-50-to-75-percent-as-firm,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"premises": "1",
+"name": "Mrs Gayna Ernestine Carlton",
+"postCode": "W1S 2XA",
+"id": 672794,
+"dobYear": 1953,
+"dobMonth": 4,
+"notifiedDate": "2017-06-09"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1925709,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "IVA TUCKER THREE TRADING LIMITED",
+"incorporationData": "09/06/2015",
+"county": "blank",
+"companyNumber": "09629378",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 CONDUIT STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "31/05/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 651970,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-06-09",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "4/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Iva Rose Tucker4/1923",
+"companyNumber": "09629378",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-firm,voting-rights-50-to-75-percent-as-firm,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"premises": "1",
+"name": "Mrs Iva Rose Tucker",
+"postCode": "W1S 2XA",
+"id": 651970,
+"dobMonth": 4,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 672055,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Conduit Street",
+"locality": "London",
+"dateOfBirth": "11/1955",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Kim Stuart Tucker11/1955",
+"companyNumber": "09629378",
+"nationality": "British",
+"premises": "1",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-firm,voting-rights-50-to-75-percent-as-firm,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control-as-firm",
+"name": "Mr Kim Stuart Tucker",
+"postCode": "W1S 2XA",
+"id": 672055,
+"dobYear": 1955,
+"dobMonth": 11,
+"notifiedDate": "2017-06-09"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1950647,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "J.E. TRIMMING (BUILDERS) LIMITED",
+"incorporationData": "30/08/1960",
+"county": "SURREY",
+"companyNumber": "00668832",
+"accountsLastData": "31/08/2018",
+"town": "FARNHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "WEY COURT WEST",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "04/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 660221,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Farnham",
+"addressLineOne": "Fullers Road Holt Pound",
+"dateOfBirth": "11/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "John Earwaker Trimming11/1924",
+"nationality": "British",
+"companyNumber": "00668832",
+"premises": "Linden",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "John Earwaker Trimming",
+"postCode": "GU10 4LB",
+"id": 660221,
+"dobYear": 1924,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1570284,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GOWER HOUSE PROPERTIES LIMITED",
+"incorporationData": "21/12/1962",
+"county": "MIDDLESEX",
+"companyNumber": "00744929",
+"accountsLastData": "25/11/2019",
+"town": "PINNER",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "52 HIGH STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "10/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 685313,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "High Street",
+"locality": "Pinner",
+"dateOfBirth": "1/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Ian Croft1/1921",
+"nationality": "British",
+"companyNumber": "00744929",
+"premises": "52",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr Ian Croft",
+"postCode": "HA5 5PW",
+"id": 685313,
+"dobMonth": 1,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1913250,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "IRVING INTERNATIONAL LIMITED",
+"incorporationData": "04/06/2004",
+"county": "blank",
+"companyNumber": "05145498",
+"accountsLastData": "30/11/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "PALLADIUM HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "04/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 694045,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "1-4 Argyll Street",
+"dateOfBirth": "1/1941",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Reginald Hurdley1/1941",
+"companyNumber": "05145498",
+"nationality": "British",
+"premises": "Palladium House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Reginald Hurdley",
+"postCode": "W1F 7LD",
+"id": 694045,
+"dobYear": 1941,
+"dobMonth": 1,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 694046,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "1-4 Argyll Street",
+"dateOfBirth": "11/1939",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Keith Edward Hayes11/1939",
+"nationality": "British",
+"companyNumber": "05145498",
+"premises": "Palladium House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Keith Edward Hayes",
+"postCode": "W1F 7LD",
+"id": 694046,
+"dobYear": 1939,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 694044,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2019-02-04",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "1-4 Argyll Street",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Gwyn Edward Ward Thomas8/1923",
+"companyNumber": "05145498",
+"nationality": "British",
+"premises": "Palladium House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Gwyn Edward Ward Thomas",
+"postCode": "W1F 7LD",
+"id": 694044,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1386772,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FM WEST (NO.1) DEVELOPMENTS LIMITED",
+"incorporationData": "01/06/2005",
+"county": "blank",
+"companyNumber": "05468603",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "01/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 709426,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "5/1918",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "The Executors Of The Late Mrs Florence May West5/1918",
+"companyNumber": "05468603",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "The Executors Of The Late Mrs Florence May West",
+"postCode": "NW1 3BG",
+"id": 709426,
+"dobYear": 1918,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1954127,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "J.W. RYDER & SON LIMITED",
+"incorporationData": "26/08/1971",
+"county": "SURREY",
+"companyNumber": "01022318",
+"accountsLastData": "31/08/2018",
+"town": "CAMBERLEY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "COMMUNICATION HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "03/07/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 714417,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-12-28",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Camberley",
+"addressLineOne": "Victoria Avenue",
+"dateOfBirth": "5/1922",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Yvonne Dawn Ryder5/1922",
+"companyNumber": "01022318",
+"nationality": "British",
+"premises": "Communication House",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mrs Yvonne Dawn Ryder",
+"postCode": "GU15 3HX",
+"id": 714417,
+"dobYear": 1922,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 714405,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Camberley",
+"addressLineOne": "Victoria Avenue",
+"dateOfBirth": "8/1947",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Stephen James Ryder8/1947",
+"companyNumber": "01022318",
+"nationality": "British",
+"premises": "Communication House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr Stephen James Ryder",
+"postCode": "GU15 3HX",
+"id": 714405,
+"dobYear": 1947,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2032588,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "JOLLYAN UNDERWRITING LIMITED",
+"incorporationData": "19/06/2000",
+"county": "blank",
+"companyNumber": "04016834",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "5TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "03/07/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 724161,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "70 Gracechurch Street",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Lloyd Rowlands8/1923",
+"companyNumber": "04016834",
+"nationality": "British",
+"premises": "5th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Lloyd Rowlands",
+"postCode": "EC3V 0XL",
+"id": 724161,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1397595,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FOREST DEVELOPMENTS LIMITED",
+"incorporationData": "27/06/2003",
+"county": "blank",
+"companyNumber": "04813042",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "27/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 737071,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "2/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Olive Liddon Hart2/1924",
+"companyNumber": "04813042",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Olive Liddon Hart",
+"postCode": "NW1 3BG",
+"id": 737071,
+"dobYear": 1924,
+"dobMonth": 2,
+"notifiedDate": "2017-06-27"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1968701,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "JAMES PERRY PRODUCTIONS LIMITED",
+"incorporationData": "28/11/1946",
+"county": "blank",
+"companyNumber": "00424566",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "10 QUEEN STREET PLACE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "23/07/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 738101,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-08-03",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Lumber Lane",
+"locality": "Towcester",
+"dateOfBirth": "9/1923",
+"countryOfResidence": "England",
+"idNameDOB": "Gilda Perry As Executor Of James Perry (Deceased)9/1923",
+"companyNumber": "00424566",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "53",
+"name": "Gilda Perry As Executor Of James Perry (Deceased)",
+"postCode": "NN12 7ND",
+"id": 738101,
+"dobMonth": 9,
+"dobYear": 1923,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1020242,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Lumber Lane",
+"locality": "Towcester",
+"dateOfBirth": "11/1938",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Gordon Henry Low11/1938",
+"companyNumber": "00424566",
+"nationality": "English",
+"premises": "53",
+"naturesOfControl": "voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Gordon Henry Low",
+"postCode": "NN12 7ND",
+"id": 1020242,
+"dobYear": 1938,
+"dobMonth": 11,
+"notifiedDate": "2019-01-29"
+        }
+      },
+      {
+        "identity": 1282940,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-07-20",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "00424566",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1282940,
+"notifiedDate": "2016-07-23"
+        }
+      },
+      {
+        "identity": 750889,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Lumber Lane",
+"locality": "Towcester",
+"dateOfBirth": "7/1933",
+"countryOfResidence": "England",
+"idNameDOB": "Gilda Perry7/1933",
+"companyNumber": "00424566",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "53",
+"name": "Gilda Perry",
+"postCode": "NN12 7ND",
+"id": 750889,
+"dobYear": 1933,
+"dobMonth": 7,
+"notifiedDate": "2017-08-03"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2338312,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LOVICZANKA LIMITED",
+"incorporationData": "29/05/1997",
+"county": "blank",
+"companyNumber": "03377497",
+"accountsLastData": "30/06/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "LYNTON HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "06/11/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 748933,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "72 Chesterfield Gardens",
+"dateOfBirth": "11/1946",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Maria Dolores Saro11/1946",
+"nationality": "Spanish",
+"companyNumber": "03377497",
+"premises": "Chesterfield House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Maria Dolores Saro",
+"postCode": "W1J 5JX",
+"id": 748933,
+"dobYear": 1946,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 748935,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-14",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Chesterfield Gardens",
+"dateOfBirth": "3/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mr Jose Maria Rodriguez3/1924",
+"companyNumber": "03377497",
+"nationality": "Spanish",
+"premises": "72 Chesterfield House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mr Jose Maria Rodriguez",
+"postCode": "W1Y 5TB",
+"id": 748935,
+"dobYear": 1924,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2329936,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LORAN DEVELOPMENTS LIMITED",
+"incorporationData": "18/07/2006",
+"county": "blank",
+"companyNumber": "05880470",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "18/07/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1281211,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-07-18",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05880470",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1281211,
+"notifiedDate": "2016-08-08"
+        }
+      },
+      {
+        "identity": 750518,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "9/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Pamela Elliot Kahane9/1920",
+"companyNumber": "05880470",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Pamela Elliot Kahane",
+"postCode": "NW1 3BG",
+"id": 750518,
+"dobYear": 1920,
+"dobMonth": 9,
+"notifiedDate": "2017-07-18"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1680921,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HASELL DEVELOPMENTS LIMITED",
+"incorporationData": "30/08/2007",
+"county": "blank",
+"companyNumber": "06355958",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "30/08/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1286729,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-08-30",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "06355958",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1286729,
+"notifiedDate": "2016-08-30"
+        }
+      },
+      {
+        "identity": 780043,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "5/1918",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Margaret Hasell Gouldbourn5/1918",
+"companyNumber": "06355958",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Margaret Hasell Gouldbourn",
+"postCode": "NW1 3BG",
+"id": 780043,
+"dobMonth": 5,
+"dobYear": 1918,
+"notifiedDate": "2017-08-30"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1776806,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HORNTON DEVELOPMENTS LIMITED",
+"incorporationData": "27/09/2001",
+"county": "blank",
+"companyNumber": "04294804",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "FLEETCOVE LIMITED",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "27/09/2019",
+"prevNameDate1": "08/10/2001"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1291485,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-09-27",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "04294804",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1291485,
+"notifiedDate": "2016-09-27"
+        }
+      },
+      {
+        "identity": 792800,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "10/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Daphne Mary Liddon Roth10/1924",
+"nationality": "British",
+"companyNumber": "04294804",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Daphne Mary Liddon Roth",
+"postCode": "NW1 3BG",
+"id": 792800,
+"dobYear": 1924,
+"dobMonth": 10,
+"notifiedDate": "2017-09-27"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2022978,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JOHN AND PATRICIA TRADING LIMITED",
+"incorporationData": "26/09/2016",
+"county": "blank",
+"companyNumber": "10392863",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "CTC 092014 TRADING LIMITED",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "25/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "08/02/2017"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1287651,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-09-25",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "10392863",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1287651,
+"notifiedDate": "2016-09-26"
+        }
+      },
+      {
+        "identity": 793065,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "5/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Patricia Mary Gliddon5/1922",
+"companyNumber": "10392863",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Patricia Mary Gliddon",
+"postCode": "NW1 3BG",
+"id": 793065,
+"dobYear": 1922,
+"dobMonth": 5,
+"notifiedDate": "2017-09-25"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2037458,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JOSEFA LTD",
+"incorporationData": "05/12/2017",
+"county": "blank",
+"companyNumber": "11097155",
+"accountsLastData": "blank",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "26-28 BEDFORD ROW",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 806366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Caswell",
+"locality": "Towcester",
+"dateOfBirth": "1/1922",
+"countryOfResidence": "Philippines",
+"idNameDOB": "Josefa Jacobsalem1/1922",
+"companyNumber": "11097155",
+"nationality": "Filipino",
+"premises": "Vo Room Number 500",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Josefa Jacobsalem",
+"postCode": "NN12 8EQ",
+"id": 806366,
+"dobYear": 1922,
+"dobMonth": 1,
+"notifiedDate": "2017-12-05"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2019683,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JOAN GREENTREE DEVELOPMENTS LIMITED",
+"incorporationData": "31/10/2006",
+"county": "blank",
+"companyNumber": "05983432",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/10/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 807989,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Joan Greentree12/1920",
+"nationality": "British",
+"companyNumber": "05983432",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Joan Greentree",
+"postCode": "NW1 3BG",
+"id": 807989,
+"dobYear": 1920,
+"dobMonth": 12,
+"notifiedDate": "2017-10-31"
+        }
+      },
+      {
+        "identity": 1293990,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-10-31",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05983432",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1293990,
+"notifiedDate": "2016-10-31"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2045888,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JRL RICHARDS DEVELOPMENTS LIMITED",
+"incorporationData": "09/11/2009",
+"county": "blank",
+"companyNumber": "07070589",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "09/11/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 812245,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Josephine Ray Leonard Richards8/1923",
+"companyNumber": "07070589",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Josephine Ray Leonard Richards",
+"postCode": "NW1 3BG",
+"id": 812245,
+"dobMonth": 8,
+"dobYear": 1923,
+"notifiedDate": "2017-11-09"
+        }
+      },
+      {
+        "identity": 1299035,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-11-09",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "07070589",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1299035,
+"notifiedDate": "2016-11-09"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1934312,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "J BREARS DEVELOPMENTS LIMITED",
+"incorporationData": "18/01/2006",
+"county": "blank",
+"companyNumber": "05678878",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "18/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1307328,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-18",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05678878",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1307328,
+"notifiedDate": "2017-01-18"
+        }
+      },
+      {
+        "identity": 835985,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "3/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Brears3/1923",
+"companyNumber": "05678878",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Brears",
+"postCode": "NW1 3BG",
+"id": 835985,
+"dobMonth": 3,
+"dobYear": 1923,
+"notifiedDate": "2018-01-18"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2014536,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JM1 DEVELOPMENTS LIMITED",
+"incorporationData": "29/01/2004",
+"county": "blank",
+"companyNumber": "05029598",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "29/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 835990,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Jack Midwood12/1920",
+"nationality": "British",
+"companyNumber": "05029598",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Jack Midwood",
+"postCode": "NW1 3BG",
+"id": 835990,
+"dobMonth": 12,
+"dobYear": 1920,
+"notifiedDate": "2018-01-29"
+        }
+      },
+      {
+        "identity": 1310832,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-29",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05029598",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1310832,
+"notifiedDate": "2017-01-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2014547,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JM2 DEVELOPMENTS LIMITED",
+"incorporationData": "29/01/2004",
+"county": "blank",
+"companyNumber": "05029569",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "29/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1310828,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-29",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05029569",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1310828,
+"notifiedDate": "2017-01-29"
+        }
+      },
+      {
+        "identity": 835991,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Jack Midwood12/1920",
+"nationality": "British",
+"companyNumber": "05029569",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Jack Midwood",
+"postCode": "NW1 3BG",
+"id": 835991,
+"dobMonth": 12,
+"dobYear": 1920,
+"notifiedDate": "2018-01-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2014554,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JM3 DEVELOPMENTS LIMITED",
+"incorporationData": "29/01/2004",
+"county": "blank",
+"companyNumber": "05029601",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "29/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 835992,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Jack Midwood12/1920",
+"nationality": "British",
+"companyNumber": "05029601",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Jack Midwood",
+"postCode": "NW1 3BG",
+"id": 835992,
+"dobMonth": 12,
+"dobYear": 1920,
+"notifiedDate": "2018-01-29"
+        }
+      },
+      {
+        "identity": 1310837,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-29",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05029601",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1310837,
+"notifiedDate": "2017-01-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2014561,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JM4 DEVELOPMENTS LIMITED",
+"incorporationData": "29/01/2004",
+"county": "blank",
+"companyNumber": "05029580",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "29/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1310839,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-29",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05029580",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1310839,
+"notifiedDate": "2017-01-29"
+        }
+      },
+      {
+        "identity": 835993,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Jack Midwood12/1920",
+"nationality": "British",
+"companyNumber": "05029580",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Jack Midwood",
+"postCode": "NW1 3BG",
+"id": 835993,
+"dobMonth": 12,
+"dobYear": 1920,
+"notifiedDate": "2018-01-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2014564,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JM5 DEVELOPMENTS LIMITED",
+"incorporationData": "29/01/2004",
+"county": "blank",
+"companyNumber": "05029594",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "29/01/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1310838,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-29",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05029594",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1310838,
+"notifiedDate": "2017-01-29"
+        }
+      },
+      {
+        "identity": 835994,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "12/1920",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Jack Midwood12/1920",
+"nationality": "British",
+"companyNumber": "05029594",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Jack Midwood",
+"postCode": "NW1 3BG",
+"id": 835994,
+"dobMonth": 12,
+"dobYear": 1920,
+"notifiedDate": "2018-01-29"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1421813,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "FREE TAX CONSULTING LTD",
+"incorporationData": "03/02/2016",
+"county": "blank",
+"companyNumber": "09985488",
+"accountsLastData": "29/02/2020",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "27 OLD GLOUCESTER STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 4,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "13/03/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 847635,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Old Gloucester Street",
+"dateOfBirth": "10/1961",
+"countryOfResidence": "Italy",
+"idNameDOB": "Mr Danilo Russo10/1961",
+"nationality": "Italian",
+"companyNumber": "09985488",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "27",
+"name": "Mr Danilo Russo",
+"postCode": "WC1N 3AX",
+"id": 847635,
+"dobYear": 1961,
+"dobMonth": 10,
+"notifiedDate": "2018-03-10"
+        }
+      },
+      {
+        "identity": 743703,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-11-01",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Old Gloucester Street",
+"dateOfBirth": "6/1966",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Michael Andrew6/1966",
+"companyNumber": "09985488",
+"nationality": "British",
+"premises": "27",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Michael Andrew",
+"postCode": "WC1N 3AX",
+"id": 743703,
+"dobYear": 1966,
+"dobMonth": 6,
+"notifiedDate": "2017-06-01"
+        }
+      },
+      {
+        "identity": 377048,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-06-01",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Old Gloucester Street",
+"dateOfBirth": "9/1972",
+"countryOfResidence": "Italy",
+"idNameDOB": "Mr Nalaka Ranatunga9/1972",
+"companyNumber": "09985488",
+"nationality": "Sri Lankan",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "27",
+"name": "Mr Nalaka Ranatunga",
+"postCode": "WC1N 3AX",
+"id": 377048,
+"dobMonth": 9,
+"dobYear": 1972,
+"notifiedDate": "2016-11-01"
+        }
+      },
+      {
+        "identity": 843411,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-01-01",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Old Gloucester Street",
+"dateOfBirth": "10/1924",
+"countryOfResidence": "Italy",
+"idNameDOB": "Mr Alberto Tabellione10/1924",
+"nationality": "Italian",
+"companyNumber": "09985488",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "27",
+"name": "Mr Alberto Tabellione",
+"postCode": "WC1N 3AX",
+"id": 843411,
+"dobYear": 1924,
+"dobMonth": 10,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1817106,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "I. J. ETON (D) DEVELOPMENTS LIMITED",
+"incorporationData": "27/02/2009",
+"county": "blank",
+"companyNumber": "06832557",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "27/02/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 853038,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "2/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Ilse Julie Eton2/1922",
+"companyNumber": "06832557",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Ilse Julie Eton",
+"postCode": "NW1 3BG",
+"id": 853038,
+"dobYear": 1922,
+"dobMonth": 2,
+"notifiedDate": "2018-02-27"
+        }
+      },
+      {
+        "identity": 1314636,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-02-27",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "06832557",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1314636,
+"notifiedDate": "2017-02-27"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1817107,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "I. J. ETON (R) DEVELOPMENTS LIMITED",
+"incorporationData": "27/02/2009",
+"county": "blank",
+"companyNumber": "06832599",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "27/02/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 853039,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "2/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Ilse Julie Eton2/1922",
+"companyNumber": "06832599",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Ilse Julie Eton",
+"postCode": "NW1 3BG",
+"id": 853039,
+"dobYear": 1922,
+"dobMonth": 2,
+"notifiedDate": "2018-02-27"
+        }
+      },
+      {
+        "identity": 1314635,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-02-27",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "06832599",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1314635,
+"notifiedDate": "2017-02-27"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1740704,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HILL SAPPHIRE DEVELOPMENTS LIMITED",
+"incorporationData": "19/03/2007",
+"county": "blank",
+"companyNumber": "06168320",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "19/03/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 871728,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "3/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Sybil Margaret Hill3/1922",
+"companyNumber": "06168320",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Sybil Margaret Hill",
+"postCode": "NW1 3BG",
+"id": 871728,
+"dobYear": 1922,
+"dobMonth": 3,
+"notifiedDate": "2018-03-19"
+        }
+      },
+      {
+        "identity": 1317511,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-03-19",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "06168320",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1317511,
+"notifiedDate": "2017-03-19"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1524671,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GLANVILLE DEVELOPMENTS LIMITED",
+"incorporationData": "23/03/2010",
+"county": "blank",
+"companyNumber": "07200023",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "23/03/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 871997,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "9/1931",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Brian Glanville9/1931",
+"companyNumber": "07200023",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Brian Glanville",
+"postCode": "NW1 3BG",
+"id": 871997,
+"dobYear": 1931,
+"dobMonth": 9,
+"notifiedDate": "2018-03-23"
+        }
+      },
+      {
+        "identity": 1320431,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-03-23",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "07200023",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1320431,
+"notifiedDate": "2017-03-23"
+        }
+      },
+      {
+        "identity": 871999,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "8/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs The Executors Of The Late Elizabeth Glanville8/1921",
+"companyNumber": "07200023",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs The Executors Of The Late Elizabeth Glanville",
+"postCode": "NW1 3BG",
+"id": 871999,
+"dobYear": 1921,
+"dobMonth": 8,
+"notifiedDate": "2018-03-23"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1795941,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HUDSON TRADING CO DEVELOPMENTS LIMITED",
+"incorporationData": "28/03/2006",
+"county": "blank",
+"companyNumber": "05758557",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "28/03/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1320479,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-03-28",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05758557",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1320479,
+"notifiedDate": "2017-03-28"
+        }
+      },
+      {
+        "identity": 873931,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr The Executors Of The Late Arthur Hudson7/1922",
+"companyNumber": "05758557",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late Arthur Hudson",
+"postCode": "NW1 3BG",
+"id": 873931,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2018-04-28"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1434890,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FRYERS DEVELOPMENTS (CAB) LIMITED",
+"incorporationData": "05/04/2006",
+"county": "blank",
+"companyNumber": "05771366",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "05/04/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1321027,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-04-05",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05771366",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1321027,
+"notifiedDate": "2017-04-05"
+        }
+      },
+      {
+        "identity": 886152,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "1/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Anne Critchley Fryers1/1924",
+"companyNumber": "05771366",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Anne Critchley Fryers",
+"postCode": "NW1 3BG",
+"id": 886152,
+"dobYear": 1924,
+"dobMonth": 1,
+"notifiedDate": "2018-04-05"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1434889,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FRYERS DEVELOPMENTS (AJF) LIMITED",
+"incorporationData": "05/04/2006",
+"county": "blank",
+"companyNumber": "05771367",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "05/04/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 886153,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "1/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Anne Critchley Fryers1/1924",
+"companyNumber": "05771367",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Anne Critchley Fryers",
+"postCode": "NW1 3BG",
+"id": 886153,
+"dobYear": 1924,
+"dobMonth": 1,
+"notifiedDate": "2018-04-05"
+        }
+      },
+      {
+        "identity": 1321035,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-04-05",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05771367",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1321035,
+"notifiedDate": "2017-04-05"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1434891,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FRYERS DEVELOPMENTS (MSMW) LIMITED",
+"incorporationData": "05/04/2006",
+"county": "blank",
+"companyNumber": "05771288",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "05/04/2020",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1321028,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-04-05",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05771288",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1321028,
+"notifiedDate": "2017-04-05"
+        }
+      },
+      {
+        "identity": 886154,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "1/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Anne Critchley Fryers1/1924",
+"companyNumber": "05771288",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Anne Critchley Fryers",
+"postCode": "NW1 3BG",
+"id": 886154,
+"dobYear": 1924,
+"dobMonth": 1,
+"notifiedDate": "2018-04-05"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2192289,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LA ZAGALETA SL UK LIMITED",
+"incorporationData": "08/06/2004",
+"county": "blank",
+"companyNumber": "05148262",
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "QUADRANT HOUSE FLOOR 6",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "08/06/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 680220,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "4 Thomas More Square",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Zagaleta Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "05148262",
+"premises": "Quadrant House Floor 6",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Zagaleta Limited",
+"postCode": "E1W 1YW",
+"id": 680220,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 888754,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Switzerland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "Zurich",
+"dateOfBirth": "8/1923",
+"countryOfResidence": "Switzerland",
+"idNameDOB": "Mr Enrique Perez Flores8/1923",
+"nationality": "Spanish",
+"companyNumber": "05148262",
+"premises": "Regensdorferstrasse 111",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Enrique Perez Flores",
+"postCode": "8049",
+"id": 888754,
+"dobYear": 1923,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1474275,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GARDEN DEVELOPMENTS LIMITED",
+"incorporationData": "27/06/2003",
+"county": "blank",
+"companyNumber": "04813041",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 1,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "27/06/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 890334,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "2/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Olive Liddon Hart2/1924",
+"companyNumber": "04813041",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Olive Liddon Hart",
+"postCode": "NW1 3BG",
+"id": 890334,
+"dobYear": 1924,
+"dobMonth": 2,
+"notifiedDate": "2017-06-27"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1634270,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "H W F NUMBER THIRTY SEVEN LIMITED",
+"incorporationData": "13/02/1987",
+"county": "blank",
+"companyNumber": "02099864",
+"accountsLastData": "31/07/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "ACRE HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "22/06/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 891230,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "St James Gardens",
+"dateOfBirth": "8/1921",
+"countryOfResidence": "England",
+"idNameDOB": "James Stormont Barclay8/1921",
+"companyNumber": "02099864",
+"nationality": "British",
+"premises": "39",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "James Stormont Barclay",
+"postCode": "W11 4RF",
+"id": 891230,
+"dobYear": 1921,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 735101,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Jeddo Road",
+"locality": "London",
+"dateOfBirth": "2/1958",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Teresa Heather Barclay2/1958",
+"companyNumber": "02099864",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "18",
+"name": "Teresa Heather Barclay",
+"postCode": "W12 9EQ",
+"id": 735101,
+"dobMonth": 2,
+"dobYear": 1958,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1420572,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FRECKLEPIN DEVELOPMENTS LIMITED",
+"incorporationData": "30/10/2002",
+"county": "blank",
+"companyNumber": "04576758",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active - Proposal to Strike off",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "30/10/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 894518,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "1/1918",
+"countryOfResidence": "England",
+"idNameDOB": "Mr The Executors Of The Late John Antony Secrett1/1918",
+"companyNumber": "04576758",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr The Executors Of The Late John Antony Secrett",
+"postCode": "NW1 3BG",
+"id": 894518,
+"dobYear": 1918,
+"dobMonth": 1,
+"notifiedDate": "2017-10-30"
+        }
+      },
+      {
+        "identity": 1293975,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-10-30",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "04576758",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1293975,
+"notifiedDate": "2016-10-30"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1386773,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FM WEST (NO.2) DEVELOPMENTS LIMITED",
+"incorporationData": "31/05/2005",
+"county": "blank",
+"companyNumber": "05467693",
+"accountsLastData": "30/09/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6TH FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/05/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1328957,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-05-31",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "05467693",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1328957,
+"notifiedDate": "2017-05-31"
+        }
+      },
+      {
+        "identity": 913141,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "338 Euston Road",
+"dateOfBirth": "5/1918",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Executors Of The Late Florence May West5/1918",
+"companyNumber": "05467693",
+"nationality": "British",
+"premises": "6th Floor",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mrs Executors Of The Late Florence May West",
+"postCode": "NW1 3BG",
+"id": 913141,
+"dobYear": 1918,
+"dobMonth": 5,
+"notifiedDate": "2018-05-31"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1861645,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "19/08/2008",
+"companyName": "INDUS VALLEY PARTNERS (UK) LIMITED",
+"county": "blank",
+"companyNumber": "06676684",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "FIRST FLOOR ROXBURGHE HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "19/08/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 927927,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-18",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Roxburghe House",
+"dateOfBirth": "11/1924",
+"countryOfResidence": "India",
+"idNameDOB": "Mr Harbhajan Singh Kapur11/1924",
+"nationality": "Indian",
+"companyNumber": "06676684",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "First Floor",
+"name": "Mr Harbhajan Singh Kapur",
+"postCode": "W1B 2HA",
+"id": 927927,
+"dobYear": 1924,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 927959,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Roxburghe House",
+"dateOfBirth": "4/1940",
+"countryOfResidence": "India",
+"idNameDOB": "Mr Harbhajan Singh Kapur4/1940",
+"companyNumber": "06676684",
+"nationality": "Indian",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "First Floor",
+"name": "Mr Harbhajan Singh Kapur",
+"postCode": "W1B 2HA",
+"id": 927959,
+"dobYear": 1940,
+"dobMonth": 4,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 73381,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-19",
+"country": "India",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Phase-Ii Noida",
+"addressLineOne": "B-13-14-15",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Indus Valley Partners (India) Pvt Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "06676684",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "Sdf",
+"name": "Indus Valley Partners (India) Pvt Limited",
+"postCode": "blank",
+"id": 73381,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 927934,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Roxburghe House",
+"dateOfBirth": "5/1943",
+"countryOfResidence": "India",
+"idNameDOB": "Mrs Harbhajan Kaur5/1943",
+"companyNumber": "06676684",
+"nationality": "Indian",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "First Floor",
+"name": "Mrs Harbhajan Kaur",
+"postCode": "W1B 2HA",
+"id": 927934,
+"dobYear": 1943,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2272412,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LILDEN PROPERTIES LIMITED",
+"incorporationData": "12/07/1951",
+"county": "blank",
+"companyNumber": "00497526",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "140 BUCKINGHAM PALACE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/04/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1325612,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2019-05-15",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "00497526",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1325612,
+"notifiedDate": "2017-04-15"
+        }
+      },
+      {
+        "identity": 1073343,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Litchfield Way",
+"locality": "London",
+"dateOfBirth": "8/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Lilian Barnett8/1924",
+"companyNumber": "00497526",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "15",
+"name": "Mrs Lilian Barnett",
+"postCode": "NW11 6NR",
+"id": 1073343,
+"dobYear": 1924,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2272407,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LILDEN INVESTMENTS LIMITED",
+"incorporationData": "10/06/1963",
+"county": "blank",
+"companyNumber": "00763636",
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "140 BUCKINGHAM PALACE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "15/04/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1324194,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2019-05-15",
+"country": "blank",
+"kind": "persons-with-significant-control-statement",
+"locality": "blank",
+"addressLineOne": "blank",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "unknownblank/blank",
+"nationality": "unknown",
+"companyNumber": "00763636",
+"naturesOfControl": "u,n,k,n,o,w,n",
+"premises": "blank",
+"name": "unknown",
+"postCode": "blank",
+"id": 1324194,
+"notifiedDate": "2017-04-15"
+        }
+      },
+      {
+        "identity": 1073399,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Litchfield Way",
+"locality": "London",
+"dateOfBirth": "8/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Lilian Barnett8/1924",
+"companyNumber": "00763636",
+"nationality": "British",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "15",
+"name": "Mrs Lilian Barnett",
+"postCode": "NW11 6NR",
+"id": 1073399,
+"dobYear": 1924,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1951349,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "J.H.DESMOND LIMITED",
+"incorporationData": "26/03/1946",
+"county": "ESSEX",
+"companyNumber": "00406927",
+"accountsLastData": "28/03/2018",
+"town": "WOODFORD GREEN",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "19-20 BOURNE COURT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1186319,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "London",
+"dateOfBirth": "1/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Josef Kasner1/1923",
+"nationality": "British",
+"companyNumber": "00406927",
+"premises": "1a Gresham Gardens",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Josef Kasner",
+"postCode": "NW11 8NX",
+"id": 1186319,
+"dobYear": 1923,
+"dobMonth": 1,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 472130,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-04-06",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Gresham Gardens",
+"dateOfBirth": "6/1962",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Baruch Erlich6/1962",
+"companyNumber": "00406927",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "1a",
+"name": "Mr Baruch Erlich",
+"postCode": "NW11 8NX",
+"id": 472130,
+"dobMonth": 6,
+"dobYear": 1962,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2357858,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LUXOR PROPERTIES LIMITED",
+"incorporationData": "10/05/1961",
+"county": "ESSEX",
+"companyNumber": "00692300",
+"accountsLastData": "28/03/2018",
+"town": "WOODFORD GREEN",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "19-20 BOURNE COURT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 2,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1199457,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "London",
+"dateOfBirth": "1/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Josef Kasner1/1923",
+"nationality": "British",
+"companyNumber": "00692300",
+"premises": "1a Gresham Gardens",
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"name": "Mr Josef Kasner",
+"postCode": "NW11 8NX",
+"id": 1199457,
+"dobYear": 1923,
+"dobMonth": 1,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 456338,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-04-06",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Gresham Gardens",
+"dateOfBirth": "6/1962",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Baruch Erlich6/1962",
+"companyNumber": "00692300",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "1a",
+"name": "Mr Baruch Erlich",
+"postCode": "NW11 8NX",
+"id": 456338,
+"dobMonth": 6,
+"dobYear": 1962,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  }
+]

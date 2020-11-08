@@ -1,0 +1,4409 @@
+﻿[
+  {
+    "c": {
+"identity": 1623850,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "GULL LEASING LIMITED",
+"incorporationData": "23/02/1981",
+"county": "STAFFORDSHIRE",
+"companyNumber": "01546806",
+"accountsLastData": "30/09/2018",
+"town": "LICHFIELD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "LOXLEY HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "31/12/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 379030,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Sutton Coldfield",
+"addressLineOne": "Four Oaks",
+"dateOfBirth": "11/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Alfred William Stockton11/1920",
+"nationality": "British",
+"companyNumber": "01546806",
+"lowerShareTotal": 50,
+"premises": "3 Midgley Drive",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Alfred William Stockton",
+"postCode": "B74 2TW",
+"id": 379030,
+"dobYear": 1920,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 379030,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Sutton Coldfield",
+"addressLineOne": "Four Oaks",
+"dateOfBirth": "11/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Alfred William Stockton11/1920",
+"nationality": "British",
+"companyNumber": "01546806",
+"lowerShareTotal": 50,
+"premises": "3 Midgley Drive",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Alfred William Stockton",
+"postCode": "B74 2TW",
+"id": 379030,
+"dobYear": 1920,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 379030,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Sutton Coldfield",
+"addressLineOne": "Four Oaks",
+"dateOfBirth": "11/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Alfred William Stockton11/1920",
+"nationality": "British",
+"companyNumber": "01546806",
+"lowerShareTotal": 50,
+"premises": "3 Midgley Drive",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Alfred William Stockton",
+"postCode": "B74 2TW",
+"id": 379030,
+"dobYear": 1920,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 379030,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Sutton Coldfield",
+"addressLineOne": "Four Oaks",
+"dateOfBirth": "11/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Alfred William Stockton11/1920",
+"nationality": "British",
+"companyNumber": "01546806",
+"lowerShareTotal": 50,
+"premises": "3 Midgley Drive",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Alfred William Stockton",
+"postCode": "B74 2TW",
+"id": 379030,
+"dobYear": 1920,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 379030,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Sutton Coldfield",
+"addressLineOne": "Four Oaks",
+"dateOfBirth": "11/1920",
+"countryOfResidence": "England",
+"idNameDOB": "Alfred William Stockton11/1920",
+"nationality": "British",
+"companyNumber": "01546806",
+"lowerShareTotal": 50,
+"premises": "3 Midgley Drive",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Alfred William Stockton",
+"postCode": "B74 2TW",
+"id": 379030,
+"dobYear": 1920,
+"dobMonth": 11,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2110247,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "KENSBRIDGE PROPERTIES LIMITED",
+"incorporationData": "09/03/2015",
+"county": "blank",
+"companyNumber": "09479185",
+"accountsLastData": "28/02/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "51 LINCOLNS INN FIELDS",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "09/03/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853371,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2020-02-05",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Cornwall Gardens",
+"dateOfBirth": "9/1924",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Elise Maria From9/1924",
+"companyNumber": "09479185",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "30b",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mrs Elise Maria From",
+"postCode": "SW7 4AP",
+"id": 853371,
+"dobYear": 1924,
+"dobMonth": 9,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      },
+      {
+        "identity": 853366,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "Lincolns Inn Fields",
+"dateOfBirth": "10/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr William Andrew From10/1921",
+"nationality": "British",
+"companyNumber": "09479185",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent-as-trust,voting-rights-75-to-100-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"premises": "51",
+"name": "Mr William Andrew From",
+"postCode": "WC2A 3NA",
+"id": 853366,
+"dobYear": 1921,
+"dobMonth": 10,
+"notifiedDate": "2017-02-28"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1965740,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JAMES ATKINSON & SON LIMITED",
+"incorporationData": "10/09/1981",
+"county": "CUMBRIA",
+"companyNumber": "01585080",
+"accountsLastData": "31/03/2019",
+"town": "MILNTHORPE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "CANAL GARAGE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 6,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "03/04/2020",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 586240,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-06-21",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Milnthorpe",
+"addressLineOne": "Preston Patrick",
+"dateOfBirth": "12/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Elizabeth Atkinson12/1924",
+"nationality": "British",
+"companyNumber": "01585080",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "Canal Garage",
+"name": "Mrs Elizabeth Atkinson",
+"postCode": "LA7 7NX",
+"id": 586240,
+"dobYear": 1924,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 586240,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-06-21",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Milnthorpe",
+"addressLineOne": "Preston Patrick",
+"dateOfBirth": "12/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Elizabeth Atkinson12/1924",
+"nationality": "British",
+"companyNumber": "01585080",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "Canal Garage",
+"name": "Mrs Elizabeth Atkinson",
+"postCode": "LA7 7NX",
+"id": 586240,
+"dobYear": 1924,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 586240,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-06-21",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Milnthorpe",
+"addressLineOne": "Preston Patrick",
+"dateOfBirth": "12/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Elizabeth Atkinson12/1924",
+"nationality": "British",
+"companyNumber": "01585080",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "Canal Garage",
+"name": "Mrs Elizabeth Atkinson",
+"postCode": "LA7 7NX",
+"id": 586240,
+"dobYear": 1924,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 586240,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-06-21",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Milnthorpe",
+"addressLineOne": "Preston Patrick",
+"dateOfBirth": "12/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Elizabeth Atkinson12/1924",
+"nationality": "British",
+"companyNumber": "01585080",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "Canal Garage",
+"name": "Mrs Elizabeth Atkinson",
+"postCode": "LA7 7NX",
+"id": 586240,
+"dobYear": 1924,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 586240,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-06-21",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"locality": "Milnthorpe",
+"addressLineOne": "Preston Patrick",
+"dateOfBirth": "12/1924",
+"countryOfResidence": "England",
+"idNameDOB": "Mrs Elizabeth Atkinson12/1924",
+"nationality": "British",
+"companyNumber": "01585080",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "Canal Garage",
+"name": "Mrs Elizabeth Atkinson",
+"postCode": "LA7 7NX",
+"id": 586240,
+"dobYear": 1924,
+"dobMonth": 12,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1899695,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "INTRASALES INVESTMENT GROUP N A INC (UK) LTD",
+"incorporationData": "13/03/2019",
+"county": "SURREY",
+"companyNumber": "11881166",
+"accountsLastData": "blank",
+"town": "NEWMALDEN",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6 OREGON CLOSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "blank",
+"prevNameDate4": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 3,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 1033806,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oregon Close",
+"locality": "Newmalden",
+"dateOfBirth": "11/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Ernest Arnold Lister11/1923",
+"companyNumber": "11881166",
+"nationality": "British",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "6",
+"name": "Mr Ernest Arnold Lister",
+"postCode": "KT3 3RA",
+"id": 1033806,
+"dobMonth": 11,
+"dobYear": 1923,
+"notifiedDate": "2019-03-13"
+        }
+      },
+      {
+        "identity": 1033806,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "England",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Oregon Close",
+"locality": "Newmalden",
+"dateOfBirth": "11/1923",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Ernest Arnold Lister11/1923",
+"companyNumber": "11881166",
+"nationality": "British",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "6",
+"name": "Mr Ernest Arnold Lister",
+"postCode": "KT3 3RA",
+"id": 1033806,
+"dobMonth": 11,
+"dobYear": 1923,
+"notifiedDate": "2019-03-13"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 2208712,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "LANGLAND INVESTMENTS LIMITED",
+"incorporationData": "04/05/1956",
+"county": "DORSET",
+"companyNumber": "00565649",
+"accountsLastData": "24/03/2019",
+"town": "POOLE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2-8 PARKSTONE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 5,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"prevNameDate2": "blank",
+"confirmationStatementLastDate": "02/08/2019",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79368,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79368,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 759981,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent,right-to-appoint-and-remove-directors",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 759981,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 79369,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "00565649",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "voting-rights-25-to-50-percent,significant-influence-or-control",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 79369,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+    "c": {
+"identity": 1371597,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FLAGSHIP PROPERTIES LIMITED",
+"incorporationData": "11/08/1986",
+"county": "DORSET",
+"companyNumber": "02045229",
+"accountsLastData": "24/03/2019",
+"town": "POOLE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "TOWNGATE HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "blank",
+"prevName1": "blank",
+"prevName2": "blank",
+"prevName3": "blank",
+"prevName4": "blank",
+"prevName5": "blank",
+"NumberUKPeople": 7,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "blank",
+"confirmationStatementLastDate": "25/09/2019",
+"prevNameDate2": "blank",
+"prevNameDate1": "blank"
+      }
+    },
+    "collect(p)": [
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200309,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200309,
+"dobYear": 1922,
+"dobMonth": 7,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 923124,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-09-30",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"naturesOfControl": "right-to-appoint-and-remove-directors",
+"premises": "Towngate House",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 923124,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2018-08-10"
+        }
+      },
+      {
+        "identity": 781589,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-08-10",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "7/1922",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell7/1922",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781589,
+"dobMonth": 7,
+"dobYear": 1922,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 781428,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-05-06",
+"country": "blank",
+"kind": "individual-person-with-significant-control",
+"locality": "Poole",
+"addressLineOne": "2-8 Parkstone Road",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "England",
+"idNameDOB": "Mr John Bernard Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "Towngate House",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent-as-trust,voting-rights-50-to-75-percent-as-trust,right-to-appoint-and-remove-directors-as-trust",
+"name": "Mr John Bernard Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 781428,
+"dobMonth": 5,
+"dobYear": 1921,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 200308,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2017-03-02",
+"country": "United Kingdom",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Towngate House",
+"locality": "Poole",
+"dateOfBirth": "5/1921",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mrs Annis Joyce Windsor-Pleydell5/1921",
+"companyNumber": "02045229",
+"nationality": "British",
+"lowerShareTotal": 0,
+"premises": "2-8 Parkstone Road",
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent",
+"name": "Mrs Annis Joyce Windsor-Pleydell",
+"postCode": "BH15 2PW",
+"id": 200308,
+"dobYear": 1921,
+"dobMonth": 5,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  }
+]

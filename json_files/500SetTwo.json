@@ -1,0 +1,2813 @@
+﻿[
+  {
+        "c": {
+"investigate": false,
+"identity": 1384198,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FLUICONNECTO UK LTD",
+"incorporationData": "28/04/1989",
+"county": "blank",
+"companyNumber": "02377540",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "MANCHESTER",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "NASMYTH BUSINESS CENTRE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "21/12/2004",
+"prevName1": "MERCIA INTERNATIONAL PRODUCTS LIMITED",
+"prevName2": "MANULI HYDRAULICS UK LIMITED",
+"prevName3": "MANULI PRESSURE HOSES LIMITED",
+"prevName4": "PRESSURE HOSES LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "09/05/2005",
+"confirmationStatementLastDate": "16/07/2019",
+"prevNameDate2": "08/01/2019",
+"prevNameDate1": "09/01/2019"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 35445,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Italy",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Milan",
+"addressLineOne": "Via P. Paleocapa",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Manuli Rubber Industries S.P.Ablank/blank",
+"nationality": "unknown",
+"companyNumber": "02377540",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,significant-influence-or-control",
+"premises": "7-20121",
+"name": "Manuli Rubber Industries S.P.A",
+"postCode": "blank",
+"id": 35445,
+"notifiedDate": "2016-07-16"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1387804,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FNH UK HOLDINGS LIMITED",
+"incorporationData": "12/12/1989",
+"county": "BERKSHIRE",
+"companyNumber": "02451413",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "SANDHURST",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "6 LAKESIDE BUSINESS PARK",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "15/08/2000",
+"prevName1": "FNH UK LIMITED",
+"prevNameDate4": "21/12/2010",
+"prevName2": "FNH UK PLC",
+"prevName3": "MANROY PLC",
+"prevName4": "HURLINGHAM PLC",
+"prevName5": "HURLINGHAM PROPERTIES PLC",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "23/03/2015",
+"confirmationStatementLastDate": "12/12/2019",
+"prevNameDate2": "23/03/2015",
+"prevNameDate1": "31/08/2017"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 320722,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Belgium",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "5100 Namur",
+"addressLineOne": "Rue Mazy 25-27",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "The Walloon Region Of Belgiumblank/blank",
+"nationality": "unknown",
+"companyNumber": "02451413",
+"lowerShareTotal": 75,
+"premises": "Gouvernement Wallon",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "The Walloon Region Of Belgium",
+"postCode": "blank",
+"id": 320722,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1395429,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FORCE INDIA FORMULA ONE TEAM LIMITED",
+"incorporationData": "29/08/1989",
+"county": "EC4N 6EU",
+"companyNumber": "02417588",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2016",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "2ND FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "09/11/2005",
+"prevName1": "SPYKER F1 TEAM LIMITED",
+"prevName2": "SPYKER MF1 TEAM LIMITED",
+"prevName3": "MIDLAND F1 RACING LIMITED",
+"prevName4": "JORDAN GRAND PRIX LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "09/10/2006",
+"confirmationStatementLastDate": "29/08/2017",
+"prevNameDate2": "24/10/2006",
+"prevNameDate1": "31/10/2007"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 94273,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Luxembourg",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "L-8070 Bertrange",
+"addressLineOne": "Atrium Business Park",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Orange India Holdings S.A.R.Lblank/blank",
+"companyNumber": "02417588",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"premises": "Atrium Business Park",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Orange India Holdings S.A.R.L",
+"postCode": "blank",
+"id": 94273,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1416194,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "FRANCE MAISONS BOIS PRODUCTION LIMITED",
+"incorporationData": "23/03/2007",
+"county": "blank",
+"companyNumber": "06182336",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "blank",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "35 FIRS AVENUE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "07/09/2016",
+"prevName1": "FABRICANT MAISONS BOIS LTD",
+"prevName2": "STOL FIELDS FRANCE LIMITED",
+"prevName3": "BETON & STRUCTURES LIMITED",
+"prevName4": "ELECTRONIC DISCOUNT LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "28/03/2017",
+"confirmationStatementLastDate": "23/03/2020",
+"prevNameDate2": "27/03/2018",
+"prevNameDate1": "10/03/2020"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 495573,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "France",
+"kind": "individual-person-with-significant-control",
+"locality": "Cugnaux",
+"addressLineOne": "Toulouse Francazal",
+"dateOfBirth": "3/1981",
+"countryOfResidence": "France",
+"idNameDOB": "Juris Brencis3/1981",
+"companyNumber": "06182336",
+"nationality": "French",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "Maisons Bois 135 Avenue De Comminges",
+"name": "Juris Brencis",
+"postCode": "31270",
+"id": 495573,
+"dobMonth": 3,
+"dobYear": 1981,
+"notifiedDate": "2016-04-07"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1437620,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "03/05/2006",
+"companyName": "FUJIFILM DIOSYNTH BIOTECHNOLOGIES UK LIMITED",
+"county": "blank",
+"companyNumber": "05803359",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "BILLINGHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "FUJIFILM DIOSYNTH BIOTECHNOLOGIES",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "30/10/2006",
+"prevName1": "MSD BIOLOGICS (UK) LIMITED",
+"prevName2": "AVECIA BIOLOGICS LIMITED",
+"prevName3": "AVECIA BIOTECHNOLOGY LIMITED",
+"prevName4": "DMWSL 521 LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "17/11/2006",
+"confirmationStatementLastDate": "03/05/2019",
+"prevNameDate2": "04/03/2010",
+"prevNameDate1": "11/04/2011"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 590440,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Japan",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Tokyo 107-0052",
+"addressLineOne": "Akasaka 9-Chome",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Fujifilm Holdings Corporationblank/blank",
+"companyNumber": "05803359",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "7-3",
+"name": "Fujifilm Holdings Corporation",
+"postCode": "blank",
+"id": 590440,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1437850,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"companyName": "FULCRUM GROUP HOLDINGS LIMITED",
+"incorporationData": "02/02/1999",
+"county": "blank",
+"companyNumber": "03705715",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2018",
+"town": "SHEFFIELD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2 EUROPA VIEW",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "13/10/2000",
+"prevName1": "FULCRUM CONNECTIONS LIMITED",
+"prevName2": "FIRST CONNECT LIMITED",
+"prevName3": "TRANSCO CONNECTIONS LIMITED",
+"prevName4": "BG CONNECTIONS LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "01/11/2001",
+"confirmationStatementLastDate": "12/08/2019",
+"prevNameDate2": "29/07/2002",
+"prevNameDate1": "18/06/2007"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 72137,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Cayman Islands",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Grand Cayman",
+"addressLineOne": "South Church Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Fulcrum Utility Services Ltdblank/blank",
+"nationality": "unknown",
+"companyNumber": "03705715",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,significant-influence-or-control",
+"premises": "Ugland House",
+"name": "Fulcrum Utility Services Ltd",
+"postCode": "blank",
+"id": 72137,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1493750,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GEMINI RAIL HOLDINGS UK LTD",
+"incorporationData": "09/07/2009",
+"county": "WEST MIDLANDS",
+"companyNumber": "06956783",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "BIRMINGHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2 PRIESTLEY WHARF ASTON SCIENCE PARK",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "24/08/2009",
+"prevNameDate4": "29/12/2009",
+"prevName1": "KIEPE ELECTRIC LIMITED",
+"prevName2": "VOSSLOH KIEPE LIMITED",
+"prevName3": "TPL (MIDLANDS) LIMITED",
+"prevName4": "TRANSYS HOLDINGS LIMITED",
+"prevName5": "ENSCO 749 LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "01/10/2012",
+"confirmationStatementLastDate": "18/11/2019",
+"prevNameDate2": "13/06/2017",
+"prevNameDate1": "06/12/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 959447,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Germany",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Munich",
+"addressLineOne": "83707 Bad Wiessee",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Mutares Holding-25 Agblank/blank",
+"nationality": "unknown",
+"companyNumber": "06956783",
+"lowerShareTotal": 75,
+"premises": "Sonnenbichlweg 1",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mutares Holding-25 Ag",
+"postCode": "blank",
+"id": 959447,
+"notifiedDate": "2018-11-01"
+        }
+      },
+      {
+        "identity": 51204,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-10-31",
+"country": "Germany",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Dusseldorf",
+"addressLineOne": "40599 Dusseldorf",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Kiepe Electric Gmbhblank/blank",
+"nationality": "unknown",
+"companyNumber": "06956783",
+"lowerShareTotal": 0,
+"premises": "Kiepe-Platz 1",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Kiepe Electric Gmbh",
+"postCode": "blank",
+"id": 51204,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1505832,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GESTAMP TALLENT LIMITED",
+"incorporationData": "21/04/1948",
+"county": "COUNTY DURHAM",
+"companyNumber": "00452916",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "NEWTON AYCLIFFE",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 SKERNE ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "01/10/2001",
+"prevName1": "TALLENT AUTOMOTIVE LIMITED",
+"prevName2": "THYSSENKRUPP TALLENT LIMITED",
+"prevName3": "THYSSENKRUPP AUTOMOTIVE TALLENT CHASSIS LIMITED",
+"prevName4": "TALLENT ENGINEERING LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "15/08/2007",
+"confirmationStatementLastDate": "03/10/2019",
+"prevNameDate2": "25/07/2011",
+"prevNameDate1": "15/01/2013"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 358346,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Spain",
+"kind": "individual-person-with-significant-control",
+"locality": "Madrid",
+"addressLineOne": "Calle Alfonso Xii",
+"dateOfBirth": "6/1964",
+"countryOfResidence": "Spain",
+"idNameDOB": "Mr Francisco José Riberas Mera6/1964",
+"companyNumber": "00452916",
+"nationality": "Spanish",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "16",
+"name": "Mr Francisco José Riberas Mera",
+"postCode": "28014",
+"id": 358346,
+"dobMonth": 6,
+"dobYear": 1964,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 358347,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Spain",
+"kind": "individual-person-with-significant-control",
+"locality": "Madrid",
+"addressLineOne": "Calle Alfonso Xii",
+"dateOfBirth": "10/1968",
+"countryOfResidence": "Spain",
+"idNameDOB": "Mr Juan María Riberas Mera10/1968",
+"nationality": "Spanish",
+"companyNumber": "00452916",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "16",
+"name": "Mr Juan María Riberas Mera",
+"postCode": "28014",
+"id": 358347,
+"dobYear": 1968,
+"dobMonth": 10,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1534624,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "24/07/1998",
+"companyName": "GLOBAL EXPERIENCE SPECIALISTS (GES) DATA SERVICES LIMITED",
+"county": "blank",
+"companyNumber": "03604037",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LEEDS",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "DELOITTE LLP",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "29/11/2000",
+"prevName1": "GLOBAL EXPERIENCE SPECIALISTS (GES) DATA SERVICES LIMITED LIMITED",
+"prevName2": "MELVILLE DATA SERVICES LTD.",
+"prevName3": "CORPORATE TECHNICAL SERVICES LIMITED",
+"prevName4": "TELECAST BROADCAST SERVICES LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "10/03/2009",
+"prevNameDate2": "12/03/2013",
+"confirmationStatementLastDate": "24/07/2019",
+"prevNameDate1": "13/03/2013"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 31049,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Phoenix",
+"addressLineOne": "Suite 1900",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Viad Corpblank/blank",
+"nationality": "unknown",
+"companyNumber": "03604037",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "1850 N. Central Avenue",
+"name": "Viad Corp",
+"postCode": "blank",
+"id": 31049,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1536219,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"incorporationData": "13/04/2000",
+"companyName": "GLOBAL LNG UK LTD",
+"county": "blank",
+"companyNumber": "03971528",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2017",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "10 UPPER BANK STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "14/04/2005",
+"prevName1": "ENGIE GLOBAL LNG UK LTD",
+"prevNameDate4": "27/11/2008",
+"prevName2": "GDF SUEZ LNG UK LTD",
+"prevName3": "GDF SUEZ GLOBAL LNG (UK) LTD",
+"prevName4": "SUEZ GLOBAL LNG LTD.",
+"prevName5": "TRACTEBEL GLOBAL LNG LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "10/12/2010",
+"prevNameDate2": "11/08/2016",
+"confirmationStatementLastDate": "01/04/2019",
+"prevNameDate1": "03/07/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 540564,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2018-07-01",
+"country": "Belgium",
+"kind": "corporate-entity-person-with-significant-control",
+"addressLineOne": "Boulevard Simon Bolivar 34",
+"locality": "Brussels",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Electrabel S.A.blank/blank",
+"companyNumber": "03971528",
+"nationality": "unknown",
+"lowerShareTotal": 0,
+"premises": "Boulevard Simon Bolivar 34",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Electrabel S.A.",
+"postCode": "blank",
+"id": 540564,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 922483,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "France",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "92400 Courbevoie",
+"addressLineOne": "Passerelle Des Reflets",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Global Lng S.A.S.blank/blank",
+"companyNumber": "03971528",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "1",
+"name": "Global Lng S.A.S.",
+"postCode": "blank",
+"id": 922483,
+"notifiedDate": "2018-07-01"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1547750,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GNUTTI CARLO UK LTD",
+"incorporationData": "20/04/1995",
+"county": "LINCOLNSHIRE",
+"companyNumber": "03047921",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "ALFORD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "33 WEST STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "06/11/2000",
+"prevName1": "GNUTTI POWERTRAIN LTD",
+"prevName2": "FINNVEDEN POWERTRAIN LIMITED",
+"prevName3": "FINNVEDEN POWERTRAIN COMPONENTS LIMITED",
+"prevName4": "C.S. MARTIN (ALFORD) LTD.",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "21/04/2004",
+"confirmationStatementLastDate": "20/04/2020",
+"prevNameDate2": "11/11/2011",
+"prevNameDate1": "23/04/2013"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 559377,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Sweden",
+"kind": "corporate-entity-person-with-significant-control",
+"addressLineOne": "342 22",
+"locality": "Alvesta",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Gnutti Carlo Holding Sweden Abblank/blank",
+"companyNumber": "03047921",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"premises": "Box 110",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,significant-influence-or-control-as-firm",
+"name": "Gnutti Carlo Holding Sweden Ab",
+"postCode": "blank",
+"id": 559377,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1558636,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "GOLDMAN GREEN LIMITED",
+"incorporationData": "25/01/2010",
+"county": "blank",
+"companyNumber": "07134849",
+"pscSharesOver100": false,
+"accountsLastData": "31/01/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "SUITE 48",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "26/10/2011",
+"prevName1": "INTERTRADE RESEARCH LIMITED",
+"prevName2": "AUCTORITAS REAL ESTATE LIMITED",
+"prevName3": "FINANCIAL ENTERPRISES LIMITED",
+"prevName4": "SCHAEFER & PARTNER CAPITAL GRP. LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "01/12/2015",
+"confirmationStatementLastDate": "25/01/2020",
+"prevNameDate2": "18/01/2016",
+"prevNameDate1": "06/11/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 395568,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Germany",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "blank",
+"locality": "Duesseldorf",
+"dateOfBirth": "2/1965",
+"countryOfResidence": "Germany",
+"idNameDOB": "Mr Peter Schaefer2/1965",
+"nationality": "German",
+"companyNumber": "07134849",
+"lowerShareTotal": 75,
+"premises": "Koenigsallee 76-78",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Mr Peter Schaefer",
+"postCode": "40212",
+"id": 395568,
+"dobYear": 1965,
+"dobMonth": 2,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1602800,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "GREENYARD FROZEN UK LIMITED",
+"incorporationData": "24/04/2002",
+"county": "NORFOLK",
+"companyNumber": "04423715",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "KING'S LYNN",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "GREENYARD FROZEN UK LIMITED GREENYARD WAY",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "10/06/2002",
+"prevName1": "PINGUIN FOODS UK LIMITED",
+"prevName2": "PINGUINLUTOSA FOODS UK LIMITED",
+"prevName3": "PINGUIN FOODS UK LIMITED",
+"prevName4": "HACKREMCO (NO. 1952) LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "29/03/2010",
+"confirmationStatementLastDate": "22/05/2019",
+"prevNameDate2": "23/04/2012",
+"prevNameDate1": "20/12/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 636388,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Belgium",
+"kind": "individual-person-with-significant-control",
+"locality": "Sint-Katelijne-Waver",
+"addressLineOne": "Strijbroek",
+"dateOfBirth": "8/1961",
+"countryOfResidence": "Belgium",
+"idNameDOB": "Mr Hein Valere Maria Deprez8/1961",
+"nationality": "Belgian",
+"companyNumber": "04423715",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent,voting-rights-25-to-50-percent",
+"premises": "10",
+"name": "Mr Hein Valere Maria Deprez",
+"postCode": "blank",
+"id": 636388,
+"dobYear": 1961,
+"dobMonth": 8,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1646577,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HALE GROUP (WIDNES) LIMITED",
+"incorporationData": "13/10/2005",
+"county": "CHESHIRE",
+"companyNumber": "05591737",
+"pscSharesOver100": false,
+"accountsLastData": "31/08/2018",
+"town": "WIDNES",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "PO BOX 12",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "ZEP UK LIMITED",
+"prevNameDate4": "04/01/2007",
+"prevName2": "HALE GROUP LIMITED",
+"prevName3": "HALE GROUP HOLDINGS LIMITED",
+"prevName4": "VIEWBREEZE LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "30/01/2008",
+"prevNameDate2": "06/08/2014",
+"confirmationStatementLastDate": "13/10/2019",
+"prevNameDate1": "29/08/2014"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 1163438,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Netherlands",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Bergen Op Zoom",
+"addressLineOne": "30 Vierlinghweg",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Zep Europe B.V.blank/blank",
+"nationality": "unknown",
+"companyNumber": "05591737",
+"lowerShareTotal": 75,
+"premises": "30",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Zep Europe B.V.",
+"postCode": "blank",
+"id": 1163438,
+"notifiedDate": "2016-10-13"
+        }
+      },
+      {
+        "identity": 352992,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-10-13",
+"country": "Netherlands",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Bergen Op Zoom",
+"addressLineOne": "Vierlinghweg",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Zep Europe B.Vblank/blank",
+"nationality": "unknown",
+"companyNumber": "05591737",
+"lowerShareTotal": 0,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "30",
+"name": "Zep Europe B.V",
+"postCode": "blank",
+"id": 352992,
+"notifiedDate": "2016-10-13"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1653468,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HAMILTONS ARCHITECTS INTERNATIONAL LIMITED",
+"incorporationData": "15/12/2003",
+"county": "blank",
+"companyNumber": "04995031",
+"pscSharesOver100": false,
+"accountsLastData": "31/10/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "103 BLENHEIM CRESCENT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "11/03/2004",
+"prevName1": "HAMILTONS ARCHITECTS LONDON LIMITED",
+"prevNameDate4": "16/12/2008",
+"prevName2": "HAMILTONS ARCHITECTS LIMITED",
+"prevName3": "NEXUS TOTAL DESIGN LIMITED",
+"prevName4": "HAMILTON ASSOCIATES PROJECTS LIMITED",
+"prevName5": "FOLLOWSPRUCE LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "11/04/2010",
+"prevNameDate2": "08/12/2010",
+"confirmationStatementLastDate": "15/12/2019",
+"prevNameDate1": "10/02/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 306827,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Great Britain",
+"kind": "individual-person-with-significant-control",
+"locality": "London",
+"addressLineOne": "103 Blenheim Crescent",
+"dateOfBirth": "2/1940",
+"countryOfResidence": "United Kingdom",
+"idNameDOB": "Mr Timothy Patrick Hamilton2/1940",
+"companyNumber": "04995031",
+"nationality": "British",
+"lowerShareTotal": 75,
+"premises": "103",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Timothy Patrick Hamilton",
+"postCode": "W11 2EQ",
+"id": 306827,
+"dobMonth": 2,
+"dobYear": 1940,
+"notifiedDate": "2016-12-01"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1694128,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HCC UNDERWRITING AGENCY LTD",
+"incorporationData": "09/01/2003",
+"county": "blank",
+"companyNumber": "04632146",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 ALDGATE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "31/03/2003",
+"prevName1": "ILLIUM MANAGING AGENCY LIMITED",
+"prevName2": "ILLIUM CAPITAL LIMITED",
+"prevName3": "ILLIUM INSURANCE LIMITED",
+"prevName4": "MINMAR (644) LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "09/09/2003",
+"confirmationStatementLastDate": "28/01/2020",
+"prevNameDate2": "02/10/2003",
+"prevNameDate1": "07/12/2007"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 407702,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "2016-04-06",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Dover",
+"addressLineOne": "Greentree Dr Ste 101",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Hcc Intermediate Holdings Inc.blank/blank",
+"nationality": "unknown",
+"companyNumber": "04632146",
+"lowerShareTotal": 0,
+"premises": "160",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Hcc Intermediate Holdings Inc.",
+"postCode": "19904",
+"id": 407702,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 1133480,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Japan",
+"kind": "corporate-entity-person-with-significant-control",
+"addressLineOne": "Shinkan 1-2-1 Marunouchi",
+"locality": "Tokyo 100-0005",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Tokio Marine Holdings Inc.blank/blank",
+"companyNumber": "04632146",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"premises": "Tokio Marine Nichido Building",
+"name": "Tokio Marine Holdings Inc.",
+"postCode": "blank",
+"id": 1133480,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1724625,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "HESS (UK) INTERNATIONAL HOLDINGS LIMITED",
+"incorporationData": "02/10/2000",
+"county": "blank",
+"companyNumber": "04084790",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "ONE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "28/06/2002",
+"prevName1": "HESS UK INTERNATIONAL HOLDINGS LIMITED",
+"prevName2": "HESS NOMINEES LIMITED",
+"prevName3": "AMERADA HESS NOMINEES LIMITED",
+"prevName4": "AMERADA HESS HOLDINGS LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "05/04/2007",
+"prevNameDate2": "03/05/2016",
+"confirmationStatementLastDate": "02/10/2019",
+"prevNameDate1": "03/05/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 145374,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Wilmington",
+"addressLineOne": "1209 Orange Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Hess Corporationblank/blank",
+"nationality": "unknown",
+"companyNumber": "04084790",
+"lowerShareTotal": 75,
+"premises": "Corporation Trust Center",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,significant-influence-or-control",
+"name": "Hess Corporation",
+"postCode": "19801",
+"id": 145374,
+"notifiedDate": "2016-09-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1724632,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "HESS GHANA INVESTMENTS I LIMITED",
+"incorporationData": "17/05/1996",
+"county": "blank",
+"companyNumber": "03200496",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2017",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "ONE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "02/11/2005",
+"prevName1": "HESS GHANA INVESTMENTS I LIMITED LIMITED",
+"prevName2": "HESS INDONESIA NEW VENTURES LIMITED",
+"prevName3": "AMERADA HESS (SURUMANA) LIMITED ",
+"prevName4": "AMERADA HESS (INDONESIA-PAGATAN) LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "19/09/2006",
+"prevNameDate2": "20/01/2016",
+"confirmationStatementLastDate": "17/05/2019",
+"prevNameDate1": "26/01/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 622294,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Wilmington",
+"addressLineOne": "1209 Orange Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Hess Corporationblank/blank",
+"nationality": "unknown",
+"companyNumber": "03200496",
+"lowerShareTotal": 75,
+"premises": "C/O Corporation Trust Center",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Hess Corporation",
+"postCode": "19801",
+"id": 622294,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1728187,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "HG WILTON PRIVATE LIMITED",
+"incorporationData": "17/10/2003",
+"county": "blank",
+"companyNumber": "04936218",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "INTERSHORE SUITES ROOM 403 DOWGATE HILL HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "07/11/2003",
+"prevName1": "LS WILTON PRIVATE LIMITED",
+"prevName2": "LS WILTON RETAIL LIMITED",
+"prevName3": "LS TOP CAT LIMITED",
+"prevName4": "SHELFCO (NO. 2877) LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "24/10/2007",
+"confirmationStatementLastDate": "27/06/2019",
+"prevNameDate2": "06/11/2007",
+"prevNameDate1": "06/10/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 902543,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "individual-person-with-significant-control",
+"locality": "Norfolk",
+"addressLineOne": "Waterside Drive",
+"dateOfBirth": "1/1962",
+"countryOfResidence": "United States",
+"idNameDOB": "Mr Jordan Eric Slone1/1962",
+"companyNumber": "04936218",
+"nationality": "American",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "999",
+"name": "Mr Jordan Eric Slone",
+"postCode": "23510",
+"id": 902543,
+"dobYear": 1962,
+"dobMonth": 1,
+"notifiedDate": "2016-04-06"
+        }
+      },
+      {
+        "identity": 902544,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "individual-person-with-significant-control",
+"locality": "Norfolk",
+"addressLineOne": "Waterside Drive",
+"dateOfBirth": "3/1967",
+"countryOfResidence": "United States",
+"idNameDOB": "Mr Thomas Richard Litton3/1967",
+"companyNumber": "04936218",
+"nationality": "American",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "999",
+"name": "Mr Thomas Richard Litton",
+"postCode": "23510",
+"id": 902544,
+"dobYear": 1967,
+"dobMonth": 3,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1755784,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HOIST GROUP DEVELOPMENT UK LTD.",
+"incorporationData": "08/07/1999",
+"county": "blank",
+"companyNumber": "03802550",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "C/O BSG VALENTINE LYNTON HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "18/10/2004",
+"prevName1": "HOISTLOCATEL DEVELOPMENT LTD.",
+"prevName2": "HOIST TECHNOLOGY DEVELOPMENT LIMITED",
+"prevName3": "HOIST HOTEL TECHNOLOGY LTD",
+"prevName4": "HOTSOFT INTERNATIONAL LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "13/06/2008",
+"confirmationStatementLastDate": "08/07/2019",
+"prevNameDate2": "16/04/2014",
+"prevNameDate1": "15/07/2015"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 72256,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Sweden",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "67",
+"locality": "Stockholm",
+"dateOfBirth": "11/1963",
+"countryOfResidence": "Sweden",
+"idNameDOB": "Christer Malcolm Fredrik Lindblom11/1963",
+"companyNumber": "03802550",
+"nationality": "Swedish",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "Sibyllegatan",
+"name": "Christer Malcolm Fredrik Lindblom",
+"postCode": "blank",
+"id": 72256,
+"dobMonth": 11,
+"dobYear": 1963,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1794072,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"companyName": "HUANBOHAI ENERGY TRADING CENTER GROUP LTD",
+"incorporationData": "15/11/2012",
+"county": "blank",
+"companyNumber": "08295640",
+"pscSharesOver100": false,
+"accountsLastData": "30/11/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "71-75 SHELTON STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "16/10/2013",
+"prevName1": "LION NATURAL RESOURCES LTD",
+"prevName2": "LION ASSET MANAGEMENT LTD",
+"prevName3": "LION NATURAL RESOURCES LIMITED",
+"prevName4": "NORDIC ACQUISITION COMPANY LTD",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "14/03/2016",
+"prevNameDate2": "08/09/2016",
+"confirmationStatementLastDate": "15/11/2019",
+"prevNameDate1": "14/02/2020"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 932112,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Switzerland",
+"kind": "individual-person-with-significant-control",
+"locality": "Geneva",
+"addressLineOne": "Rue Des Granges",
+"dateOfBirth": "11/1976",
+"countryOfResidence": "Switzerland",
+"idNameDOB": "Mr Mauricio Trevino Zambrano11/1976",
+"nationality": "Mexican",
+"companyNumber": "08295640",
+"lowerShareTotal": 50,
+"naturesOfControl": "ownership-of-shares-50-to-75-percent,voting-rights-50-to-75-percent-as-firm",
+"premises": "6",
+"name": "Mr Mauricio Trevino Zambrano",
+"postCode": "blank",
+"id": 932112,
+"dobMonth": 11,
+"dobYear": 1976,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1808945,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "HYDROCARBON PROSPECTING PLC",
+"incorporationData": "26/11/2009",
+"county": "blank",
+"companyNumber": "07088271",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "SUITE 1 3RD FLOOR",
+"companyCategory": "Public Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "PERSIAN GOLD PLC",
+"prevNameDate4": "19/02/2010",
+"prevName2": "CLONTARF ENERGY PLC",
+"prevName3": "HYDROCARBON PROSPECTING PLC",
+"prevName4": "HYDROCARBON EXPLORATION PUBLIC LIMITED COMPANY",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "17/06/2010",
+"prevNameDate2": "21/03/2011",
+"confirmationStatementLastDate": "26/11/2019",
+"prevNameDate1": "14/12/2015"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 268636,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Ireland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Clontarf Road",
+"locality": "Dublin 3",
+"dateOfBirth": "1/1946",
+"countryOfResidence": "Ireland",
+"idNameDOB": "Mr John Teeling1/1946",
+"companyNumber": "07088271",
+"nationality": "Irish",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "162",
+"name": "Mr John Teeling",
+"postCode": "blank",
+"id": 268636,
+"dobMonth": 1,
+"dobYear": 1946,
+"notifiedDate": "2016-11-26"
+        }
+      },
+      {
+        "identity": 268637,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Ireland",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Clontarf Road",
+"locality": "Dublin 3",
+"dateOfBirth": "12/1958",
+"countryOfResidence": "Ireland",
+"idNameDOB": "Mr James Michael Finn12/1958",
+"companyNumber": "07088271",
+"nationality": "Irish",
+"lowerShareTotal": 25,
+"naturesOfControl": "ownership-of-shares-25-to-50-percent",
+"premises": "162",
+"name": "Mr James Michael Finn",
+"postCode": "blank",
+"id": 268637,
+"dobYear": 1958,
+"dobMonth": 12,
+"notifiedDate": "2016-11-26"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1823300,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "18/07/2008",
+"companyName": "IBERDROLA ENGINEERING AND CONSTRUCTION UK LIMITED",
+"county": "blank",
+"companyNumber": "SC345934",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2016",
+"town": "GLASGOW",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "C/O JOHNSTON CARMICHAEL",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "05/08/2008",
+"prevNameDate4": "13/10/2009",
+"prevName1": "IBERDROLA ENGINEERING AND CONSTRUCTION LIMITED",
+"prevName2": "IBEROLA ENGINEERING AND CONSTRUCTION UK LIMITED",
+"prevName3": "IBERDROLA ENGINEERING AND CONSTRUCTION LIMITED",
+"prevName4": "IBERDROLA ENGINEERING AND CONSTRUCTION SCOTLAND LIMITED",
+"prevName5": "IBERDROLA INGENIERIA Y CONSTRUCCION SCOTLAND LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "18/03/2010",
+"confirmationStatementLastDate": "17/09/2018",
+"prevNameDate2": "18/03/2010",
+"prevNameDate1": "18/03/2010"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 15266,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Spain",
+"kind": "corporate-entity-person-with-significant-control",
+"addressLineOne": "No 5",
+"locality": "Bilbao",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Iberdrola Sablank/blank",
+"companyNumber": "SC345934",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"premises": "Plaza Euskadi",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,significant-influence-or-control",
+"name": "Iberdrola Sa",
+"postCode": "blank",
+"id": 15266,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1833467,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "IDRREAM INDEPENDENT PICTURES LIMITED",
+"incorporationData": "24/09/2007",
+"county": "blank",
+"companyNumber": "06378975",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "MIDDLESEX",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "C/O. MALDE & CO. 99 KENTON ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "17/02/2009",
+"prevName1": "INDIA RETAILS EVERYWHERE LIMITED",
+"prevName2": "INDIA EVERYWHERE LIMITED",
+"prevName3": "FIRED FILMS PRODUCTION LIMITED",
+"prevName4": "STRAIGHT FILMS PRODUCTION LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "29/05/2012",
+"confirmationStatementLastDate": "24/09/2019",
+"prevNameDate2": "05/02/2014",
+"prevNameDate1": "15/02/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 221440,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "India",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Mumbai 400099",
+"addressLineOne": "Andheri-Kurla Road",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Idream Motion Pictures (India Private Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "06378975",
+"lowerShareTotal": 75,
+"premises": "Chintamani Heritage",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"name": "Idream Motion Pictures (India Private Limited",
+"postCode": "blank",
+"id": 221440,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1886930,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "INTEGRATED PROTECTION SOLUTIONS LIMITED",
+"incorporationData": "28/06/2010",
+"county": "MIDDLESEX",
+"companyNumber": "07296795",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "HARROW",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "FIRST FLOOR HEALTHAID HOUSE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "13/07/2010",
+"prevName1": "INTEGRATED PROTECTION SOLUTIONS HOLDING LIMITED",
+"prevName2": "CERTUA LIMITED",
+"prevName3": "INTEGRATED PROTECTION SOLUTIONS LIMITED",
+"prevName4": "INTERACTIVE PROTECTION SOLUTIONS LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "18/02/2016",
+"prevNameDate2": "07/09/2016",
+"confirmationStatementLastDate": "07/07/2019",
+"prevNameDate1": "07/09/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 4172,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"country": "Channel Islands",
+"ceasedDate": "2016-06-01",
+"kind": "corporate-entity-person-with-significant-control",
+"addressLineOne": "Ruette Braye",
+"locality": "Guernsey",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Integrated Protection Solutions Holding Limitedblank/blank",
+"companyNumber": "07296795",
+"nationality": "unknown",
+"lowerShareTotal": 0,
+"premises": "1st And 2nd Floors Elizabeth House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors,right-to-appoint-and-remove-directors-as-firm,significant-influence-or-control,significant-influence-or-control-as-firm",
+"name": "Integrated Protection Solutions Holding Limited",
+"postCode": "GY1 1EW",
+"id": 4172,
+"notifiedDate": "2016-06-01"
+        }
+      },
+      {
+        "identity": 832037,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Isle Of Man",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Victoria Road",
+"locality": "Douglas",
+"dateOfBirth": "10/1962",
+"countryOfResidence": "Isle Of Man",
+"idNameDOB": "Mr Christopher Peter Eaton10/1962",
+"companyNumber": "07296795",
+"nationality": "British",
+"naturesOfControl": "significant-influence-or-control-as-trust",
+"premises": "First Floor Millennium House",
+"name": "Mr Christopher Peter Eaton",
+"postCode": "IM4 4AW",
+"id": 832037,
+"dobMonth": 10,
+"dobYear": 1962,
+"notifiedDate": "2016-06-01"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1900450,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "UNITED KINGDOM",
+"dissolutionDate": "blank",
+"incorporationData": "08/06/2004",
+"companyName": "INTU TRAFFORD CENTRE GROUP (UK) LIMITED",
+"county": "ENGLAND AND WALES",
+"companyNumber": "05148403",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "40 BROADWAY",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "25/06/2004",
+"prevNameDate4": "12/05/2006",
+"prevName1": "CSC TRAFFORD CENTRE GROUP (UK) LIMITED",
+"prevName2": "THE TRAFFORD CENTRE GROUP (UK) LIMITED",
+"prevName3": "PEEL HOLDINGS (TCL) LIMITED",
+"prevName4": "PEEL ACQUISITIONS LIMITED",
+"prevName5": "DE FACTO 1128 LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "17/11/2010",
+"prevNameDate2": "21/02/2011",
+"confirmationStatementLastDate": "05/07/2019",
+"prevNameDate1": "01/03/2013"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 668037,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Isle Of Man",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Douglas",
+"addressLineOne": "Victoria Road",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Intu Trafford Centre Group Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "05148403",
+"lowerShareTotal": 75,
+"premises": "First Names House",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Intu Trafford Centre Group Limited",
+"postCode": "IM2 4DF",
+"id": 668037,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1910665,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "06/07/2005",
+"companyName": "IRESS WEB LIMITED",
+"county": "blank",
+"companyNumber": "05501526",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "WARWICK",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "1 KINGMAKER COURT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "23/08/2005",
+"prevName1": "AVELO WEB SOLUTIONS LIMITED",
+"prevName2": "AVELO BUSINESS LIMITED",
+"prevName3": "SCREEN BUSINESS LIMITED",
+"prevName4": "BLAKEDEW 557 LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "01/04/2011",
+"confirmationStatementLastDate": "22/07/2019",
+"prevNameDate2": "01/08/2011",
+"prevNameDate1": "31/10/2013"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 57294,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "France",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Warwick",
+"addressLineOne": "Warwick Technology Park",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Iress Fs Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "05501526",
+"lowerShareTotal": 75,
+"premises": "1 Kingmaker Court",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Iress Fs Limited",
+"postCode": "CV34 6DY",
+"id": 57294,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1919272,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "13/06/1989",
+"companyName": "ISSUER DIRECT LTD",
+"county": "blank",
+"companyNumber": "02394368",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "CROYDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "THE LANSDOWNE BUILDING",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "13/02/2002",
+"prevName1": "PRECISIONIR LIMITED",
+"prevName2": "WILINK EUROPE LIMITED",
+"prevName3": "WILINK LIMITED",
+"prevName4": "WORLD INVESTOR LINK LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "24/05/2002",
+"prevNameDate2": "17/01/2007",
+"confirmationStatementLastDate": "30/05/2019",
+"prevNameDate1": "18/04/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 657423,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Morrisville 27560",
+"addressLineOne": "Perimeter Park Drive",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Issuer Direct Corporationblank/blank",
+"companyNumber": "02394368",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "500",
+"name": "Issuer Direct Corporation",
+"postCode": "blank",
+"id": 657423,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 1921876,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "ITAB SHOP PRODUCTS UK LTD",
+"incorporationData": "19/05/2006",
+"county": "HERTFORDSHIRE",
+"companyNumber": "05822228",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "HEMEL HEMPSTEAD",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "ITAB HOUSE SWALLOWDALE LANE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "ITAB SHOP PRODUCTS LIMITED",
+"prevNameDate4": "06/06/2006",
+"prevName2": "ITAB MK LIMITED",
+"prevName3": "RADFORD CGC LIMITED",
+"prevName4": "DE FACTO 1374 LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "02/01/2007",
+"confirmationStatementLastDate": "19/05/2019",
+"prevNameDate2": "04/01/2010",
+"prevNameDate1": "05/03/2010"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 631736,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Sweden",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Jönköping",
+"addressLineOne": "Se- 550 09",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Itab Shop Concept Abblank/blank",
+"nationality": "unknown",
+"companyNumber": "05822228",
+"lowerShareTotal": 75,
+"premises": "Box 9054",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Itab Shop Concept Ab",
+"postCode": "blank",
+"id": 631736,
+"notifiedDate": "2016-07-01"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 1962365,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "JAGUAR LAND ROVER AUTOMOTIVE PLC",
+"incorporationData": "18/01/2008",
+"county": "blank",
+"companyNumber": "06477691",
+"pscSharesOver100": false,
+"accountsLastData": "31/03/2019",
+"town": "COVENTRY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "ABBEY ROAD",
+"companyCategory": "Public Limited Company",
+"prevNameDate5": "06/02/2008",
+"prevName1": "JAGUAR LAND ROVER PLC",
+"prevNameDate4": "09/06/2008",
+"prevName2": "JAGUAR LAND ROVER LIMITED",
+"prevName3": "JAGUARLANDROVER LIMITED",
+"prevName4": "TML HOLDINGS LIMITED",
+"prevName5": "PRECIS (2746) LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "06/04/2011",
+"prevNameDate2": "06/04/2011",
+"confirmationStatementLastDate": "18/01/2020",
+"prevNameDate1": "28/12/2012"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 368533,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "India",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Mumbai",
+"addressLineOne": "24 Homi Mody Street",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Tata Sons Limitedblank/blank",
+"nationality": "unknown",
+"companyNumber": "06477691",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "Bombay House",
+"name": "Tata Sons Limited",
+"postCode": "blank",
+"id": 368533,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 2052212,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"incorporationData": "08/06/2011",
+"companyName": "JUBILEE INTERNATIONAL EDUCATION GROUP LIMITED",
+"county": "blank",
+"companyNumber": "07662566",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "ROOM 609 CLARENDON BUSINESS CENTRES",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "15/01/2013",
+"prevName1": "JUBLIEE INTERNATIONAL EDUCATION GROUP LIMITED",
+"prevName2": "YOURUN INTERNATIONAL (UK) INVESTMENT & MANAGEMENT LIMITED",
+"prevName3": "YOURUN INTERNATIONAL (UK) ART INVESTMENT & MANAGEMENT LIMITED",
+"prevName4": "YOURUN INTERNATIONAL (UK) INVESTMENT & MANAGEMENT LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "22/07/2014",
+"confirmationStatementLastDate": "17/04/2020",
+"prevNameDate2": "09/03/2018",
+"prevNameDate1": "16/03/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 677960,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "China",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Nanjing City",
+"addressLineOne": "Qiaolin Gong Ye Yuan",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Nanjing Beautiful China Co.Ltdblank/blank",
+"nationality": "unknown",
+"companyNumber": "07662566",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "No 86",
+"name": "Nanjing Beautiful China Co.Ltd",
+"postCode": "blank",
+"id": 677960,
+"notifiedDate": "2016-06-11"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2106367,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"incorporationData": "22/08/2000",
+"companyName": "KELVION LIMITED",
+"county": "HAMPSHIRE",
+"companyNumber": "04057753",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "FAREHAM",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "20 DAVIS WAY",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "15/12/2000",
+"prevName1": "GEA HEAT EXCHANGERS LIMITED",
+"prevName2": "GEA DENCO LIMITED",
+"prevName3": "DENCO LIMITED",
+"prevName4": "OPENWISE LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "15/08/2008",
+"prevNameDate2": "28/12/2011",
+"confirmationStatementLastDate": "10/10/2019",
+"prevNameDate1": "06/01/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 263098,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Germany",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Bochum",
+"addressLineOne": "Dorstener Str.",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Kelvion Holdings Gmbhblank/blank",
+"nationality": "unknown",
+"companyNumber": "04057753",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "484",
+"name": "Kelvion Holdings Gmbh",
+"postCode": "44809",
+"id": 263098,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2163993,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "KORN FERRY GH1 LIMITED",
+"incorporationData": "01/05/2013",
+"county": "blank",
+"companyNumber": "08513219",
+"pscSharesOver100": false,
+"accountsLastData": "30/04/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "RYDER COURT",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "15/10/2013",
+"prevName1": "KFUK1 LIMITED",
+"prevNameDate4": "11/12/2013",
+"prevName2": "MOFO FIFTY-EIGHT LIMITED",
+"prevName3": "CAITHNESS OIL LIMITED",
+"prevName4": "IGAS ENERGY (CAITHNESS) LIMITED",
+"prevName5": "MOFO FIFTY-EIGHT LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "12/12/2013",
+"prevNameDate2": "13/02/2014",
+"confirmationStatementLastDate": "27/04/2019",
+"prevNameDate1": "17/03/2014"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 585998,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Los Angeles",
+"addressLineOne": "Avenue Of The Stars",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Korn/Ferry Internationalblank/blank",
+"nationality": "unknown",
+"companyNumber": "08513219",
+"naturesOfControl": "significant-influence-or-control",
+"premises": "1900",
+"name": "Korn/Ferry International",
+"postCode": "blank",
+"id": 585998,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 2196437,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LAGARDERE SPORTS UK LTD",
+"incorporationData": "17/07/1998",
+"county": "CHESHIRE",
+"companyNumber": "03599986",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "WILMSLOW",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "2ND FLOOR",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "07/06/2000",
+"prevNameDate4": "31/12/2001",
+"prevName1": "SPORTFIVE LIMITED",
+"prevName2": "SPORTFIVE INT. LIMITED",
+"prevName3": "UFA SPORTS LIMITED",
+"prevName4": "UFA INTERNATIONAL LIMITED",
+"prevName5": "UFA INTERNATIONAL FILM & TV PRODUCTION LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "28/02/2002",
+"confirmationStatementLastDate": "17/07/2019",
+"prevNameDate2": "04/11/2008",
+"prevNameDate1": "01/12/2015"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 22930,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Germany",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Hamburg",
+"addressLineOne": "Barcastrasse 5",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Lagardere Sports Germany Gmbhblank/blank",
+"nationality": "unknown",
+"companyNumber": "03599986",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"premises": "5",
+"name": "Lagardere Sports Germany Gmbh",
+"postCode": "blank",
+"id": 22930,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2206052,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"incorporationData": "08/10/1999",
+"companyName": "LANDMARK GLOBAL (UK) LIMITED",
+"county": "blank",
+"companyNumber": "03855411",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "HESTON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "UNIT A1 PARKWAY",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevName1": "BPOST INTERNATIONAL (UK) LIMITED",
+"prevNameDate4": "01/08/2002",
+"prevName2": "BPOST ASIA (HOLDINGS) LIMITED",
+"prevName3": "CITIPOST (HOLDINGS) LIMITED",
+"prevName4": "SUBSCRIPTION SERVICES LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "18/10/2011",
+"confirmationStatementLastDate": "03/12/2019",
+"prevNameDate2": "02/08/2012",
+"prevNameDate1": "11/12/2015"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 376181,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Belgium",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Brussels",
+"addressLineOne": "Monnaie",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Bpost Sa/Nvblank/blank",
+"nationality": "unknown",
+"companyNumber": "03855411",
+"lowerShareTotal": 75,
+"premises": "Muntcentrum-Centre",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Bpost Sa/Nv",
+"postCode": "blank",
+"id": 376181,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2207104,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LANDTEC EUROPE LIMITED",
+"incorporationData": "02/02/1989",
+"county": "blank",
+"companyNumber": "02342366",
+"pscSharesOver100": false,
+"accountsLastData": "29/12/2017",
+"town": "LEEDS",
+"hasPSCs": "true",
+"companyStatus": "Liquidation",
+"addressLineOne": "5TH FLOOR CENTRAL SQUARE",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "10/10/2000",
+"prevNameDate4": "02/11/2001",
+"prevName1": "Q.E.D. ENVIRONMENTAL SYSTEMS LIMITED",
+"prevName2": "LANDTEC EUROPE LIMITED",
+"prevName3": "BACHARACH EUROPE LIMITED",
+"prevName4": "SET POINT EUROPE LIMITED",
+"prevName5": "MEASUREMENT TECHNIQUES LIMITED",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "07/12/2006",
+"confirmationStatementLastDate": "23/10/2018",
+"prevNameDate2": "30/05/2018",
+"prevNameDate1": "21/08/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 193718,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "United States",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Minneapolis",
+"addressLineOne": "11th Avenue Ne",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Graco Inc.blank/blank",
+"nationality": "unknown",
+"companyNumber": "02342366",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "88",
+"name": "Graco Inc.",
+"postCode": "55413",
+"id": 193718,
+"notifiedDate": "2016-09-26"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2211753,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "ENGLAND",
+"dissolutionDate": "blank",
+"incorporationData": "04/12/2003",
+"companyName": "LAPT LTD",
+"county": "blank",
+"companyNumber": "04984798",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "LONDON",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "85 GREAT PORTLAND STREET",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "20/10/2005",
+"prevName1": "LAPT-EQA CERTIFICATIONS LTD.",
+"prevName2": "LONDON ACADEMY OF PROFESSINAL TRAINING ASSESSMENTS LTD.",
+"prevName3": "LONDON ACADEMY OF PROFESSIONAL TRAINING LIMITED",
+"prevName4": "HARROW COLLEGE LTD",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "30/07/2015",
+"prevNameDate2": "20/06/2016",
+"confirmationStatementLastDate": "31/03/2020",
+"prevNameDate1": "16/04/2018"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 578713,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "India",
+"kind": "individual-person-with-significant-control",
+"addressLineOne": "Vvip Addresses",
+"locality": "Ghaziabad",
+"dateOfBirth": "2/1974",
+"countryOfResidence": "India",
+"idNameDOB": "Mr Neeti Raj Singh2/1974",
+"companyNumber": "04984798",
+"nationality": "Indian",
+"lowerShareTotal": 75,
+"premises": "Rajnagar",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent",
+"name": "Mr Neeti Raj Singh",
+"postCode": "blank",
+"id": 578713,
+"dobYear": 1974,
+"dobMonth": 2,
+"notifiedDate": "2016-10-20"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": false,
+"identity": 2230149,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LE SHUTTLE LIMITED",
+"incorporationData": "15/01/2003",
+"county": "blank",
+"companyNumber": "04637545",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "KENT",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "UK TERMINAL ASHFORD ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "06/05/2003",
+"prevName1": "CHERITON RESOURCES 17 LIMITED",
+"prevName2": "PORT MARITIME SECURITY INTERNATIONAL LIMITED",
+"prevName3": "PORT MARITIME SECURITY LIMITED",
+"prevName4": "PRECIS (2330) LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "03/06/2003",
+"confirmationStatementLastDate": "02/07/2019",
+"prevNameDate2": "05/05/2006",
+"prevNameDate1": "19/12/2008"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 98863,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "France",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Paris",
+"addressLineOne": "Rue La Boetie",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Getlink Seblank/blank",
+"nationality": "unknown",
+"companyNumber": "04637545",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent",
+"premises": "3",
+"name": "Getlink Se",
+"postCode": "blank",
+"id": 98863,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 2249740,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LEONARDO MW LTD",
+"incorporationData": "25/09/1989",
+"county": "blank",
+"companyNumber": "02426132",
+"pscSharesOver100": false,
+"accountsLastData": "31/12/2018",
+"town": "ESSEX",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "SIGMA HOUSE CHRISTOPHER MARTIN",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "03/05/2005",
+"prevName1": "SELEX ES LTD",
+"prevName2": "SELEX GALILEO LTD",
+"prevName3": "SELEX SENSORS AND AIRBORNE SYSTEMS LIMITED",
+"prevName4": "BAE SYSTEMS AVIONICS LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "04/01/2010",
+"prevNameDate2": "02/01/2013",
+"confirmationStatementLastDate": "09/01/2020",
+"prevNameDate1": "09/09/2016"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 58963,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Italy",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "00195 Roma (Rm)",
+"addressLineOne": "Piazza Monte Grappa",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Leonardo S.P.A.blank/blank",
+"companyNumber": "02426132",
+"nationality": "unknown",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"premises": "4",
+"name": "Leonardo S.P.A.",
+"postCode": "blank",
+"id": 58963,
+"notifiedDate": "2016-04-06"
+        }
+      }
+    ]
+  },
+  {
+        "c": {
+"investigate": true,
+"identity": 2303469,
+"labels": [
+        "Company"
+      ],
+"properties": {
+"country": "blank",
+"dissolutionDate": "blank",
+"companyName": "LLUV & FABEC LTD.",
+"incorporationData": "12/01/2004",
+"county": "BUCKS",
+"companyNumber": "05012531",
+"pscSharesOver100": true,
+"accountsLastData": "31/12/2018",
+"town": "BLETCHLEY",
+"hasPSCs": "true",
+"companyStatus": "Active",
+"addressLineOne": "SUITE 428 39A BARTON ROAD",
+"companyCategory": "Private Limited Company",
+"prevNameDate5": "blank",
+"prevNameDate4": "01/08/2008",
+"prevName1": "LLUV & FABEC IMMOBILIEN LTD.",
+"prevName2": "LLUV & FABEC TRADECONSULT LTD.",
+"prevName3": "FABEC & LLUV TRADECONSULT LTD.",
+"prevName4": "LLUV CONSULT LIMITED",
+"prevName5": "blank",
+"NumberUKPeople": 0,
+"countryOrigin": "United Kingdom",
+"prevNameDate3": "08/11/2009",
+"prevNameDate2": "21/05/2014",
+"confirmationStatementLastDate": "12/01/2020",
+"prevNameDate1": "18/02/2015"
+      }
+    },
+    "collect(s)": [
+      {
+        "identity": 378284,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Germany",
+"kind": "individual-person-with-significant-control",
+"locality": "Lotte",
+"addressLineOne": "An Der Dorfkirche 29",
+"dateOfBirth": "3/1958",
+"countryOfResidence": "Germany",
+"idNameDOB": "Mr Karl-Heinrich August Bensieck3/1958",
+"companyNumber": "05012531",
+"nationality": "German",
+"lowerShareTotal": 75,
+"premises": ".",
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent,right-to-appoint-and-remove-directors",
+"name": "Mr Karl-Heinrich August Bensieck",
+"postCode": "49504",
+"id": 378284,
+"dobYear": 1958,
+"dobMonth": 3,
+"notifiedDate": "2016-07-01"
+        }
+      },
+      {
+        "identity": 1203527,
+        "labels": [
+          "PSC"
+        ],
+        "properties": {
+"ceasedDate": "unknown",
+"country": "Ireland",
+"kind": "corporate-entity-person-with-significant-control",
+"locality": "Dublin 3",
+"addressLineOne": "2 Fairview Strand",
+"dateOfBirth": "blank/blank",
+"countryOfResidence": "unknown",
+"idNameDOB": "Lluv & Fabec Ltdblank/blank",
+"nationality": "unknown",
+"companyNumber": "05012531",
+"lowerShareTotal": 75,
+"naturesOfControl": "ownership-of-shares-75-to-100-percent,voting-rights-75-to-100-percent-as-firm,significant-influence-or-control-as-firm",
+"premises": "Kandoy House",
+"name": "Lluv & Fabec Ltd",
+"postCode": "blank",
+"id": 1203527,
+"notifiedDate": "2019-12-02"
+        }
+      }
+    ]
+  }
+]
